@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" height="400px" width="400px" viewBox="0 0 200 200" version="1.1">
-	<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><rdf:Work rdf:about=""><dc:rights>This work is licensed under the Creative Commons CC0 1.0 Universal Public Domain Dedication.</dc:rights><dc:creator>Marco Herglotz - safetyforms.de, safetyforms.nl</dc:creator></rdf:Work></rdf:RDF></metadata><g style="stroke:none; fill-rule:nonzero;"> 
-		<rect style="fill:#ffffff;" y="0" x="0" height="200" width="200" />
-		<rect style="fill:#008855;" y="5" x="5" height="190" width="190" />
-		<rect style="fill:#ffffff;" x="75" y="25" width="50" height="150" /> 
-		<rect style="fill:#ffffff;" x="25" y="75" width="150" height="50" /> 
-	</g>
-</svg>

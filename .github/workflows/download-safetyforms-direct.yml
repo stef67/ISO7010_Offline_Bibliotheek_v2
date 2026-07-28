@@ -1,0 +1,55 @@
+name: SafetyForms SVG-bibliotheek bijwerken
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 3 1 * *"
+
+permissions:
+  contents: write
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Repository ophalen
+        uses: actions/checkout@v4
+
+      - name: Python instellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Python-pakketten installeren
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 playwright
+          playwright install --with-deps chromium
+
+      - name: SVG-bibliotheek downloaden
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          python -u tools/download_safetyforms_direct.py             --url "https://safetyforms.nl/Pictogrammen.php"             --output "ISO7010"
+
+      - name: Resultaat als artifact bewaren
+        uses: actions/upload-artifact@v4
+        with:
+          name: safetyforms-svg-bibliotheek
+          path: ISO7010/
+          if-no-files-found: error
+          retention-days: 7
+
+      - name: Wijzigingen opslaan
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ISO7010/
+          if git diff --cached --quiet; then
+            echo "Geen wijzigingen om op te slaan."
+          else
+            git commit -m "SafetyForms SVG-bibliotheek bijgewerkt"
+            git push
+          fi
