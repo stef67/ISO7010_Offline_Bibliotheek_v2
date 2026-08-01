@@ -1,2698 +1,2030 @@
 [
   {
-    "code": "ADR_1",
     "naam": "ADR 1",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_1.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_1.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_1.svg",
     "sha256": "065d630875b1dbc1150f75e48e94ccd87a0b549000daa25af58256a4b7d51628"
   },
   {
-    "code": "ADR_2",
     "naam": "ADR 2",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_2.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_2.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_2.svg",
     "sha256": "b4489ec578f126a38af9059a8f17fd21c0a869d6dd8554f51ff575bef48e0fe6"
   },
   {
-    "code": "ADR_2.1",
     "naam": "ADR 2.1",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_2.1.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_2.1.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_2.1.svg",
     "sha256": "4f324d9a04623d3e0494fde1d9cfe114c320b686ebb861eda36bb0390bacfe62"
   },
   {
-    "code": "ADR_2.2",
     "naam": "ADR 2.2",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_2.2.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_2.2.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_2.2.svg",
     "sha256": "656542e4f12321fa8f3567e847a552f0e61cb606ea73f5160910dc94e548c8c1"
   },
   {
-    "code": "ADR_3",
     "naam": "ADR 3",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_3.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_3.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_3.svg",
     "sha256": "fd7ec4d3bd6efaa35c939bdb5d95e75bf075e40db931743d0eed2c309122e0cc"
   },
   {
-    "code": "ADR_4.1",
     "naam": "ADR 4.1",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_4.1.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_4.1.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_4.1.svg",
     "sha256": "383bcfc578a6727f3ed32f8e1643c6fb177d969bfc2bf38aa49284b9682ab3b5"
   },
   {
-    "code": "ADR_4.2",
     "naam": "ADR 4.2",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_4.2.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_4.2.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_4.2.svg",
     "sha256": "710c0a7ca65983538d7536d74f241ba37943afeac554c61960ca6b709f61f089"
   },
   {
-    "code": "ADR_4.3",
     "naam": "ADR 4.3",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_4.3.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_4.3.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_4.3.svg",
     "sha256": "f8106b33317f9f6fb0f655a1bfd636828f2ba175619a667fb939279d466d4703"
   },
   {
-    "code": "ADR_5.1",
     "naam": "ADR 5.1",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_5.1.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_5.1.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_5.1.svg",
     "sha256": "0578c0a694ee8a1598901cbe8428ac5e634644712f4cad2eefb155b21965109b"
   },
   {
-    "code": "ADR_5.2",
     "naam": "ADR 5.2",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_5.2.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_5.2.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_5.2.svg",
     "sha256": "53b6affe4e225ccf7aa50d5ca53a8a4e056a21b71121450dcdca9b9782fdb322"
   },
   {
-    "code": "ADR_6.1",
     "naam": "ADR 6.1",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_6.1.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_6.1.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_6.1.svg",
     "sha256": "32de7a15a38975f6975d1987fdb3b5ca6a86431706ec300742bf2128c18944cc"
   },
   {
-    "code": "ADR_6.2",
     "naam": "ADR 6.2",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_6.2.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_6.2.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_6.2.svg",
     "sha256": "8e19b031b1e8bd336c6ed1c557274e1bc8a98414be89afaec85ce549b4e78b79"
   },
   {
-    "code": "ADR_7A",
     "naam": "ADR 7A",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_7A.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_7A.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_7A.svg",
     "sha256": "2e31805015b6a8e8a72227088c99c5809dc696b143cc4ead9122d5a8b3d35dda"
   },
   {
-    "code": "ADR_7B",
     "naam": "ADR 7B",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_7B.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_7B.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_7B.svg",
     "sha256": "069393f6d5e1712df8da7f9125213140e4253b5fa921de8ba79152cc38949a48"
   },
   {
-    "code": "ADR_7C",
     "naam": "ADR 7C",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_7C.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_7C.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_7C.svg",
     "sha256": "f2f6021073833556c2e297b5ed72690c6159f4a0b93f19b3fd94f8b918c9d346"
   },
   {
-    "code": "ADR_7E",
     "naam": "ADR 7E",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_7E.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_7E.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_7E.svg",
     "sha256": "455798ea6d93e732ed2491c3b15e464e0606240438b3290f062feb64a27d663b"
   },
   {
-    "code": "ADR_8",
     "naam": "ADR 8",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_8.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_8.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_8.svg",
     "sha256": "4571c27f081bc958b34dc8a8abb785ef1e9909300fe829f75f26b54d204f740d"
   },
   {
-    "code": "ADR_9",
     "naam": "ADR 9",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_9.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_9.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_9.svg",
     "sha256": "c77510213c1a40e35091a9f73c29e8c1d83b8f5f674887f3a5c28371cce93d9f"
   },
   {
-    "code": "ADR_9A",
     "naam": "ADR 9A",
-    "categorie": "ADR - Gevaarsetiketten voor transport",
     "bestand": "ADR_9A.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ADR_9A.svg",
+    "bron": "https://safetyforms.nl/pictograms/ADR_9A.svg",
     "sha256": "fc3fa68454aacd01da4658815e71f356bdbc1e4a6d774fbf280ac13092bffb7a"
   },
   {
-    "code": "ISO_7010_F001",
-    "naam": "ISO 7010 F001",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F001.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F001.svg",
-    "sha256": "4332bf1212c3991852a5a51248d69f74f04ed7148d780227f569312fb8a19b6a"
+    "naam": "favicon",
+    "bestand": "favicon.svg",
+    "bron": "https://safetyforms.nl/favicon/favicon.svg",
+    "sha256": "e1d26c70c7eee065354e30f2e3f727a9c248d8fd040854c695dc986241f6a07a"
   },
   {
-    "code": "ISO_7010_F002",
-    "naam": "ISO 7010 F002",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F002.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F002.svg",
-    "sha256": "ea174e1b3dc4ae7f1a32233964cf29e0d1fad807a687c4152f2a2736a96bcffc"
-  },
-  {
-    "code": "ISO_7010_F003",
-    "naam": "ISO 7010 F003",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F003.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F003.svg",
-    "sha256": "430a69a105d0cf7a32329a9d3461297e1d512febaeeb3d6619389c10c159542e"
-  },
-  {
-    "code": "ISO_7010_F004",
-    "naam": "ISO 7010 F004",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F004.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F004.svg",
-    "sha256": "c25030b1116bb521ab0bfe899d99749b3f68bcdbef0bbdb65a63066aceecd12e"
-  },
-  {
-    "code": "ISO_7010_F005",
-    "naam": "ISO 7010 F005",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F005.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F005.svg",
-    "sha256": "fdc8b69b9b2dc69c7499f9fb17a66db9bf2eb6c34f889e39ebf6fa8f5c3e78d2"
-  },
-  {
-    "code": "ISO_7010_F006",
-    "naam": "ISO 7010 F006",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F006.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F006.svg",
-    "sha256": "ba5d76dcc84db8ae18966238fbbf999a12016695171dbb5e2fe761410f1d7db8"
-  },
-  {
-    "code": "ISO_7010_F007",
-    "naam": "ISO 7010 F007",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F007.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F007.svg",
-    "sha256": "9fe0827cba7148b2141a20667f550b23d47397463581770adb661051dd435311"
-  },
-  {
-    "code": "ISO_7010_F008",
-    "naam": "ISO 7010 F008",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F008.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F008.svg",
-    "sha256": "94976193f9cd4d02ec20ad00feffe580ce8355ceaf81308a53e5abcb8cb927d7"
-  },
-  {
-    "code": "ISO_7010_F009",
-    "naam": "ISO 7010 F009",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F009.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F009.svg",
-    "sha256": "6f11d314d16d5b96f76b95d5b812800cd227d6a9b99e08e82b1017573632722b"
-  },
-  {
-    "code": "ISO_7010_F010",
-    "naam": "ISO 7010 F010",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F010.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F010.svg",
-    "sha256": "2bf7c4e922a673fe167400c2216fa14b247dc4826cbf6babe22fd912ff73481e"
-  },
-  {
-    "code": "ISO_7010_F011",
-    "naam": "ISO 7010 F011",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F011.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F011.svg",
-    "sha256": "69d109b55e1de78905b00c2f0ceb7a33dc7480f74458f548d8bfa9de80e10fb9"
-  },
-  {
-    "code": "ISO_7010_F012",
-    "naam": "ISO 7010 F012",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F012.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F012.svg",
-    "sha256": "9dc2907491aa79cef719426f6c27c8cf092599e60765cc7b3dec89e686377cff"
-  },
-  {
-    "code": "ISO_7010_F013",
-    "naam": "ISO 7010 F013",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F013.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F013.svg",
-    "sha256": "f4625d18e091a9ef1c8163dcc2117fa1d2e5ee83d9f2bc7bab257aa2fa16a5ba"
-  },
-  {
-    "code": "ISO_7010_F014",
-    "naam": "ISO 7010 F014",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F014.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F014.svg",
-    "sha256": "c9e2ee9f9abb064a9f516a12132769cc26e4b835bc983c777b3e4ae95b518c90"
-  },
-  {
-    "code": "ISO_7010_F015",
-    "naam": "ISO 7010 F015",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F015.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F015.svg",
-    "sha256": "ae9020a55140859dd1bd17a1759a32fffbe84217294b6dcf0e472f29b6e2ae24"
-  },
-  {
-    "code": "ISO_7010_F016",
-    "naam": "ISO 7010 F016",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F016.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F016.svg",
-    "sha256": "e3fa3eca1a9694be36577d28275f2d72dbedb2a534990c7ea32b2f719f169332"
-  },
-  {
-    "code": "ISO_7010_F017",
-    "naam": "ISO 7010 F017",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F017.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F017.svg",
-    "sha256": "53d666274a81f47c1aa4af47dd19ecc848613a5e5469fe0ae54cb5eff6b68e96"
-  },
-  {
-    "code": "ISO_7010_F018",
-    "naam": "ISO 7010 F018",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F018.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F018.svg",
-    "sha256": "5e5c64ad8530d7436ca84a54a24a96ea00e6f19af29f2e8f5a7ea397202b8f30"
-  },
-  {
-    "code": "ISO_7010_F019",
-    "naam": "ISO 7010 F019",
-    "categorie": "ISO 7010 - Brandbestrijdingstekens (F)",
-    "bestand": "ISO_7010_F019.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_F019.svg",
-    "sha256": "0d2eca17bbc3f53a298ea3a0ef00487c361e5928a8552b75fc4ca5be97c9ab35"
-  },
-  {
-    "code": "ISO_7010_M001",
-    "naam": "ISO 7010 M001",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M001.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M001.svg",
-    "sha256": "b206adca5f5a92e6ba32aeb821c8666e1389da664a3050a029fd2c4aadfb03d9"
-  },
-  {
-    "code": "ISO_7010_M002",
-    "naam": "ISO 7010 M002",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M002.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M002.svg",
-    "sha256": "0767055e3c5e47733b19cc786b730610fc29c8744d58a8abc1ac48b1b92b3b7b"
-  },
-  {
-    "code": "ISO_7010_M003",
-    "naam": "ISO 7010 M003",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M003.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M003.svg",
-    "sha256": "aebc9feaa0f852572acb571baab5e94ae6b7ce46d079ad55aa8c270870dda874"
-  },
-  {
-    "code": "ISO_7010_M004",
-    "naam": "ISO 7010 M004",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M004.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M004.svg",
-    "sha256": "06e4e5a023dd6c4a82d6e89c645380e5d5c6d59c8c54049e86919404aab77108"
-  },
-  {
-    "code": "ISO_7010_M005",
-    "naam": "ISO 7010 M005",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M005.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M005.svg",
-    "sha256": "cb1a937d682cfdd973a173caff39806b5418085c3503b8e1849e1353df431999"
-  },
-  {
-    "code": "ISO_7010_M006",
-    "naam": "ISO 7010 M006",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M006.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M006.svg",
-    "sha256": "dfd08218562a2e054e61526163420ed10062bf78ac56f8dd08d725d1c8a4a323"
-  },
-  {
-    "code": "ISO_7010_M007",
-    "naam": "ISO 7010 M007",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M007.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M007.svg",
-    "sha256": "04e94570ac00485b103a16e2b9a77a3abfa045dfd2717ad0b706d192a8dc1e2e"
-  },
-  {
-    "code": "ISO_7010_M008",
-    "naam": "ISO 7010 M008",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M008.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M008.svg",
-    "sha256": "e0d1a150ba22ee9f4679a5b55e1e9fe0efc9a96f65e870efcab40b80fdcc648e"
-  },
-  {
-    "code": "ISO_7010_M009",
-    "naam": "ISO 7010 M009",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M009.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M009.svg",
-    "sha256": "a76302365926ee18b4b18f841944ba530034046912ddb1be5ebfa18146a6dc47"
-  },
-  {
-    "code": "ISO_7010_M010",
-    "naam": "ISO 7010 M010",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M010.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M010.svg",
-    "sha256": "5d22854cfd53e6988afe3bfed52ea8b3cb31cfe7c97a8eb3cf21424d2af5b6dc"
-  },
-  {
-    "code": "ISO_7010_M011",
-    "naam": "ISO 7010 M011",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M011.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M011.svg",
-    "sha256": "7bbbc545802af875561fa4ecff03727911e75441438686c26948363316882ad8"
-  },
-  {
-    "code": "ISO_7010_M012",
-    "naam": "ISO 7010 M012",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M012.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M012.svg",
-    "sha256": "c8502f889eced6ff71ec119d8269a9cf1cab7ac94f025a65b90008efac542879"
-  },
-  {
-    "code": "ISO_7010_M013",
-    "naam": "ISO 7010 M013",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M013.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M013.svg",
-    "sha256": "8304103ae513461608042763d390aeaf203ab3bdf37b1f00dfdf25271835fef5"
-  },
-  {
-    "code": "ISO_7010_M014",
-    "naam": "ISO 7010 M014",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M014.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M014.svg",
-    "sha256": "31583ac6fbc6da1e655639db771185050cdced7f7970e22be07d9c06f188f900"
-  },
-  {
-    "code": "ISO_7010_M015",
-    "naam": "ISO 7010 M015",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M015.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M015.svg",
-    "sha256": "62797ddf32e4dc4873d9a402eb97cd10e7937281c2c9796c06be36680a57ed44"
-  },
-  {
-    "code": "ISO_7010_M016",
-    "naam": "ISO 7010 M016",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M016.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M016.svg",
-    "sha256": "9788e4fb2306c2dbca5ce36d676df3160afd167f6135e946c59a64f11543a38d"
-  },
-  {
-    "code": "ISO_7010_M017",
-    "naam": "ISO 7010 M017",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M017.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M017.svg",
-    "sha256": "c0d64e067409a18e1e21a92f3a1c49962d952286267931bee13c2bd8ef46b49d"
-  },
-  {
-    "code": "ISO_7010_M018",
-    "naam": "ISO 7010 M018",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M018.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M018.svg",
-    "sha256": "8e98c070aff2927bde520ea0075525ba81234b25363121c9fa092e9d5fd24f44"
-  },
-  {
-    "code": "ISO_7010_M019",
-    "naam": "ISO 7010 M019",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M019.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M019.svg",
-    "sha256": "57429c5a9ab9957305dee38bdb75be0a24626dcd410882e70a364cacf8222f6a"
-  },
-  {
-    "code": "ISO_7010_M020",
-    "naam": "ISO 7010 M020",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M020.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M020.svg",
-    "sha256": "ed02047abb43e4142ccc8950891caeee45ae2cbe2e88bbbc53500b50bc048f70"
-  },
-  {
-    "code": "ISO_7010_M021",
-    "naam": "ISO 7010 M021",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M021.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M021.svg",
-    "sha256": "b125823f186ea9b30120d110aca71d3eb5a01604c249f455222f734e9a9c585b"
-  },
-  {
-    "code": "ISO_7010_M022",
-    "naam": "ISO 7010 M022",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M022.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M022.svg",
-    "sha256": "998bb276aa7ee251a396f7c3665ec388692e8eeacd1004be7d249edf719171d6"
-  },
-  {
-    "code": "ISO_7010_M023",
-    "naam": "ISO 7010 M023",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M023.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M023.svg",
-    "sha256": "34fb69ffd9d18c679d1404336b490ec71d773a80210e4022ca477fa3bc172270"
-  },
-  {
-    "code": "ISO_7010_M024",
-    "naam": "ISO 7010 M024",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M024.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M024.svg",
-    "sha256": "60c9e28b8112f6fe7dc33c0c5b5221bdc5d917ad3f3fb0c20e50e69abe4da98e"
-  },
-  {
-    "code": "ISO_7010_M025",
-    "naam": "ISO 7010 M025",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M025.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M025.svg",
-    "sha256": "63b52ee1d3fd9e01953d8f7686f53ce32cfe4f7fc2d2475406c8dc5712471699"
-  },
-  {
-    "code": "ISO_7010_M026",
-    "naam": "ISO 7010 M026",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M026.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M026.svg",
-    "sha256": "3dc78fef2732440264f403ffafa225b32bb9a675b41dd5f58af449245e889a1a"
-  },
-  {
-    "code": "ISO_7010_M027",
-    "naam": "ISO 7010 M027",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M027.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M027.svg",
-    "sha256": "6eb27e6504ab54f60c46990cbedcf875fd6ab368555caa335336272bd8ee3188"
-  },
-  {
-    "code": "ISO_7010_M028",
-    "naam": "ISO 7010 M028",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M028.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M028.svg",
-    "sha256": "2bd4c01dc2f00cbde10551f954b38f55b58b7ebc4414b7478fd599312681a3d5"
-  },
-  {
-    "code": "ISO_7010_M029",
-    "naam": "ISO 7010 M029",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M029.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M029.svg",
-    "sha256": "c1d679e4fd6adfd40bc805df756b230a8bb89b08a6519c81a1d3a9224daa5611"
-  },
-  {
-    "code": "ISO_7010_M030",
-    "naam": "ISO 7010 M030",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M030.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M030.svg",
-    "sha256": "bbc9d90aa70599a1400c57370e2ed45ceaca76ce6b117099b657a9494f19e715"
-  },
-  {
-    "code": "ISO_7010_M031",
-    "naam": "ISO 7010 M031",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M031.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M031.svg",
-    "sha256": "bd0c906c485d763e10a28c79248aeb307a952b948b0d4c01f1dd6f5673be5cf8"
-  },
-  {
-    "code": "ISO_7010_M032",
-    "naam": "ISO 7010 M032",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M032.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M032.svg",
-    "sha256": "ea9f0afad9de12d2300d7fa531db715aefc9638d04b8ed54a011e5d142cb3481"
-  },
-  {
-    "code": "ISO_7010_M033",
-    "naam": "ISO 7010 M033",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M033.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M033.svg",
-    "sha256": "099a4ceeffe0a5662f25cce7440f8105a1af1140f8e6e538e1e9ececc02b367d"
-  },
-  {
-    "code": "ISO_7010_M034",
-    "naam": "ISO 7010 M034",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M034.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M034.svg",
-    "sha256": "155dd76a7bdc2ddfd692ba099c97b5352ee5bba55b57127431507fd76f5c4fc2"
-  },
-  {
-    "code": "ISO_7010_M035",
-    "naam": "ISO 7010 M035",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M035.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M035.svg",
-    "sha256": "aa9613f328b4b04e9ad535ce2504df7dfcb6ef052d0ba033ecdb1df0dbb06d01"
-  },
-  {
-    "code": "ISO_7010_M036",
-    "naam": "ISO 7010 M036",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M036.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M036.svg",
-    "sha256": "18535c7471820702b6b328b2611398250fea25ad7438aafca12aa752e1ad4da2"
-  },
-  {
-    "code": "ISO_7010_M037",
-    "naam": "ISO 7010 M037",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M037.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M037.svg",
-    "sha256": "bda0e12fff9ce092be0d197c0819c7c8577f0e1c0e5040e26fd6b2cf45328c1e"
-  },
-  {
-    "code": "ISO_7010_M038",
-    "naam": "ISO 7010 M038",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M038.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M038.svg",
-    "sha256": "e6551a185788077822b0b15c920ac19dbae6167c8dbb8c2e611ed926f63b6ab6"
-  },
-  {
-    "code": "ISO_7010_M039",
-    "naam": "ISO 7010 M039",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M039.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M039.svg",
-    "sha256": "eb27830c8f72376bb4e740d36bc9b7cebef328f24767094af26331df94a3da13"
-  },
-  {
-    "code": "ISO_7010_M040",
-    "naam": "ISO 7010 M040",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M040.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M040.svg",
-    "sha256": "a4badf46acb8849c0a393b8fd627bb66f7bcf664367b90149f92012b635a72a3"
-  },
-  {
-    "code": "ISO_7010_M041",
-    "naam": "ISO 7010 M041",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M041.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M041.svg",
-    "sha256": "63c0f03e6a5407ce56b8238b4ece8ae3418c78a695e9bff333b148c9eefb6c0c"
-  },
-  {
-    "code": "ISO_7010_M042",
-    "naam": "ISO 7010 M042",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M042.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M042.svg",
-    "sha256": "039aee2cb7c3c9141ce17321c5e643531db2834a4fa97d8ca0cb4990dd69e2ec"
-  },
-  {
-    "code": "ISO_7010_M043",
-    "naam": "ISO 7010 M043",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M043.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M043.svg",
-    "sha256": "0ec44f6a5db80a345a0341cf981619552f354955e15e51250b06c11cbdb608e9"
-  },
-  {
-    "code": "ISO_7010_M044",
-    "naam": "ISO 7010 M044",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M044.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M044.svg",
-    "sha256": "e795aa8eef7a1514253fc3b2f993c7694c0b26f5b5c139cb0f7723e2cda79e7a"
-  },
-  {
-    "code": "ISO_7010_M045",
-    "naam": "ISO 7010 M045",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M045.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M045.svg",
-    "sha256": "0f49f8418afa67be81306a3b1621358c576462c13cd1d4868075375e9c9d63c1"
-  },
-  {
-    "code": "ISO_7010_M046",
-    "naam": "ISO 7010 M046",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M046.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M046.svg",
-    "sha256": "7a8ac7a6c75665c6f4350dc04ebb87b42cf2e79a10d973f0319fe20772ed4876"
-  },
-  {
-    "code": "ISO_7010_M047",
-    "naam": "ISO 7010 M047",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M047.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M047.svg",
-    "sha256": "4a8d5eca78346df9ef9b77ca2d0bcfab96dad7872062611e6c24c564e0ab9570"
-  },
-  {
-    "code": "ISO_7010_M048",
-    "naam": "ISO 7010 M048",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M048.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M048.svg",
-    "sha256": "956cc713569ce6c6a387f25b17c09aa7b3101fdb4fe00a5884b986fb6af73194"
-  },
-  {
-    "code": "ISO_7010_M049",
-    "naam": "ISO 7010 M049",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M049.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M049.svg",
-    "sha256": "85b5eeef7301db064b3f4dcd472068599174c7731709eec9675f3c46036837e5"
-  },
-  {
-    "code": "ISO_7010_M050",
-    "naam": "ISO 7010 M050",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M050.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M050.svg",
-    "sha256": "357a924ac6f20f7e52cc3eec531fa248dacb56e9e9e671abf767aa6e090bf89d"
-  },
-  {
-    "code": "ISO_7010_M051",
-    "naam": "ISO 7010 M051",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M051.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M051.svg",
-    "sha256": "f955d9798df60c3e43f833bf64164cb6eb4955a412a901c59de1989f26aafa33"
-  },
-  {
-    "code": "ISO_7010_M052",
-    "naam": "ISO 7010 M052",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M052.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M052.svg",
-    "sha256": "e14fc6a6f6b6d8b2a5f3b5e6ee976fef3a391250c59072f2a21c14916c6984a0"
-  },
-  {
-    "code": "ISO_7010_M053",
-    "naam": "ISO 7010 M053",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M053.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M053.svg",
-    "sha256": "61122543b8ad824aba4d1bec1b9c02ba508ad22af9ca5f1b29ddad675e3eaf92"
-  },
-  {
-    "code": "ISO_7010_M054",
-    "naam": "ISO 7010 M054",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M054.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M054.svg",
-    "sha256": "18ddf1b83df56cbdda81513b4efbcba54b32b6d2f0060999f56f6641d5a78118"
-  },
-  {
-    "code": "ISO_7010_M055",
-    "naam": "ISO 7010 M055",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M055.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M055.svg",
-    "sha256": "94404a21ee483029a197187436d08f09ca848b88ca583cb366b29269f6bb896b"
-  },
-  {
-    "code": "ISO_7010_M056",
-    "naam": "ISO 7010 M056",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M056.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M056.svg",
-    "sha256": "3640145a4e86cc2fa774fa6555f279542717d129d9523b4e8cd8f2e61ae8a747"
-  },
-  {
-    "code": "ISO_7010_M057",
-    "naam": "ISO 7010 M057",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M057.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M057.svg",
-    "sha256": "722588f05b5913437a46c15623798c39fb32f4a7dea0470d7e7070dab8e77fe9"
-  },
-  {
-    "code": "ISO_7010_M058",
-    "naam": "ISO 7010 M058",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M058.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M058.svg",
-    "sha256": "2a07aae9910f11edd059b2c62d6ed7920a8cf821ad03b1fc57b8d35febb561f5"
-  },
-  {
-    "code": "ISO_7010_M059",
-    "naam": "ISO 7010 M059",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M059.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M059.svg",
-    "sha256": "6fde4d7745b3eb1c3e01edaf000f5deba25762628672a441a7f7e02bdaa7dd92"
-  },
-  {
-    "code": "ISO_7010_M060",
-    "naam": "ISO 7010 M060",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M060.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M060.svg",
-    "sha256": "b512b3513b8f488a55235878d4ae8e4ca45538f2a88b2046d950ae8931da539c"
-  },
-  {
-    "code": "ISO_7010_M061",
-    "naam": "ISO 7010 M061",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M061.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M061.svg",
-    "sha256": "695c12eb9e5ebb4d325f0d45f7a4475af98143af7f38ca2fe48f735183b30b76"
-  },
-  {
-    "code": "ISO_7010_M062",
-    "naam": "ISO 7010 M062",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M062.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M062.svg",
-    "sha256": "a03e4c620284bc1dd4d4bef875108ea06a4fcce965a42f2167a5bb4e7bb4504e"
-  },
-  {
-    "code": "ISO_7010_M068",
-    "naam": "ISO 7010 M068",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M068.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M068.svg",
-    "sha256": "ef00737e2c7a593814d410ced7a813f143e5ff04be47f1b8457152f1c7227bd2"
-  },
-  {
-    "code": "ISO_7010_M069",
-    "naam": "ISO 7010 M069",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M069.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M069.svg",
-    "sha256": "b61eb6766c84229ffb61a9593dfdc22b42f61bdc7529a235217c54f7d0a5e1a5"
-  },
-  {
-    "code": "ISO_7010_M070",
-    "naam": "ISO 7010 M070",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M070.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M070.svg",
-    "sha256": "2b0473a0987b29813723ada2c189fbab9ecedce4690ac7b82389c2af468b8d96"
-  },
-  {
-    "code": "ISO_7010_M071",
-    "naam": "ISO 7010 M071",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M071.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M071.svg",
-    "sha256": "c6e24d5fc2bf00d75de18d8b31a4223302791a06ecea710f44d4cfa4cb446f34"
-  },
-  {
-    "code": "ISO_7010_M072",
-    "naam": "ISO 7010 M072",
-    "categorie": "ISO 7010 - Gebodstekens (M)",
-    "bestand": "ISO_7010_M072.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_M072.svg",
-    "sha256": "02ca7df0c1a12f3cb1497ed03af9c91a258ce4f580a1f25c88990b7f22e91af7"
-  },
-  {
-    "code": "ISO_7010_E001",
     "naam": "ISO 7010 E001",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E001.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E001.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E001.svg",
     "sha256": "983ce854984c77715ad22c2e26260c18eff61edff22af4af30c1bd104ebd9295"
   },
   {
-    "code": "ISO_7010_E002",
     "naam": "ISO 7010 E002",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E002.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E002.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E002.svg",
     "sha256": "df18a1b81e7dc5cc296cf07e9e5dd20553ca7a2ef774831b826e34ce5bdff81d"
   },
   {
-    "code": "ISO_7010_E003",
     "naam": "ISO 7010 E003",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E003.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E003.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E003.svg",
     "sha256": "69c1119933d8b1294b395388e8d753dfac9e5f51df45fdcc6fe5197e02248e8c"
   },
   {
-    "code": "ISO_7010_E004",
     "naam": "ISO 7010 E004",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E004.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E004.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E004.svg",
     "sha256": "9134df5e356d3d6d65474197966c61bc25dadbbe80f3f875a89c2afebc357d59"
   },
   {
-    "code": "ISO_7010_E007",
     "naam": "ISO 7010 E007",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E007.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E007.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E007.svg",
     "sha256": "680b2ff0ef141beb0addd079e40746907e053cb3973ec4c01963c5b3fef4fb2a"
   },
   {
-    "code": "ISO_7010_E008",
     "naam": "ISO 7010 E008",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E008.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E008.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E008.svg",
     "sha256": "0166b5326ea2977a2b0bb3ed608c63361ff0f7c2ed051d6cd2f929a6429be14b"
   },
   {
-    "code": "ISO_7010_E009",
     "naam": "ISO 7010 E009",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E009.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E009.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E009.svg",
     "sha256": "0d6af571b022fc3896dfa3fcf249f14bc36ea75f14e6ebed3e91f2bc092cd5f9"
   },
   {
-    "code": "ISO_7010_E010",
     "naam": "ISO 7010 E010",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E010.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E010.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E010.svg",
     "sha256": "db6103f5cb7a29a8cfcd283c8be6761f9b7b17410944ba7682a1fe5470f82973"
   },
   {
-    "code": "ISO_7010_E011",
     "naam": "ISO 7010 E011",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E011.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E011.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E011.svg",
     "sha256": "ab415aa37a1d5ec2412e79e6e141e23756714c28b868cd8971bd0673003a3597"
   },
   {
-    "code": "ISO_7010_E012",
     "naam": "ISO 7010 E012",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E012.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E012.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E012.svg",
     "sha256": "50d3e2f441ec1e113adc7dd113750b8df4a0fb6824e0cad487487d24bbfb11f4"
   },
   {
-    "code": "ISO_7010_E013",
     "naam": "ISO 7010 E013",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E013.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E013.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E013.svg",
     "sha256": "0e53dc67e33215d50c0a78e4e11fcd5626c5a9620795a1a6a03196427bec1ab7"
   },
   {
-    "code": "ISO_7010_E014",
     "naam": "ISO 7010 E014",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E014.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E014.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E014.svg",
     "sha256": "8112ec51db82af4734dd35ce955722741ee735e071cc2821df5c6ea2f6003387"
   },
   {
-    "code": "ISO_7010_E015",
     "naam": "ISO 7010 E015",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E015.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E015.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E015.svg",
     "sha256": "f51ec1022f98207372dba86adc2f539e4799080b1700667d0e69bd4578092e15"
   },
   {
-    "code": "ISO_7010_E016",
     "naam": "ISO 7010 E016",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E016.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E016.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E016.svg",
     "sha256": "7b2d35f540d690a189e81674790e50ced5fc20d67e6c672b668499f9e4575679"
   },
   {
-    "code": "ISO_7010_E017",
     "naam": "ISO 7010 E017",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E017.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E017.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E017.svg",
     "sha256": "7faa9c4e10f2dd43c21da92e98ed1c2b396ed92d50a5d9eb1d1590c0b352b09f"
   },
   {
-    "code": "ISO_7010_E018",
     "naam": "ISO 7010 E018",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E018.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E018.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E018.svg",
     "sha256": "33b0ad3b184be5f3808a5d3345854b7c91ebfdfe872dff5d0c98e19db1046882"
   },
   {
-    "code": "ISO_7010_E019",
     "naam": "ISO 7010 E019",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E019.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E019.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E019.svg",
     "sha256": "64caa9538029dcb6bb0f7bece80a3198e56bcf384b391bb823a9d3613e46a5dc"
   },
   {
-    "code": "ISO_7010_E020",
     "naam": "ISO 7010 E020",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E020.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E020.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E020.svg",
     "sha256": "2948706cee290fe087aed11d727fbb903762c741aee7fdca30201d2b111b55f8"
   },
   {
-    "code": "ISO_7010_E021",
     "naam": "ISO 7010 E021",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E021.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E021.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E021.svg",
     "sha256": "b3a083f7161d3caa9c5261b2628d0d758a773ae4cc356ab88c0ba84bb2b3e1e2"
   },
   {
-    "code": "ISO_7010_E022",
     "naam": "ISO 7010 E022",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E022.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E022.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E022.svg",
     "sha256": "ab14492f95739252db67032e4fec4fb94caf84f3af012f90de2b448199da8735"
   },
   {
-    "code": "ISO_7010_E023",
     "naam": "ISO 7010 E023",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E023.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E023.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E023.svg",
     "sha256": "ab5a8c9c531dfa975dbb8f96827aa09126215a45a3cd2d4e4bfe0e860d7789d2"
   },
   {
-    "code": "ISO_7010_E024",
     "naam": "ISO 7010 E024",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E024.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E024.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E024.svg",
     "sha256": "3644850476b1388e60c0151d1ee2c81be9784f105ece19540f0fe6e63148a961"
   },
   {
-    "code": "ISO_7010_E025",
     "naam": "ISO 7010 E025",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E025.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E025.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E025.svg",
     "sha256": "e48f3ea03d62664fa3f71b128d33796b5e54c34a6b33e7399f617820cd989f42"
   },
   {
-    "code": "ISO_7010_E026",
     "naam": "ISO 7010 E026",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E026.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E026.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E026.svg",
     "sha256": "cb0c820dd6484158c350c9acb7ebbaba010c53c34bb1e9f89160b93dbc53ceeb"
   },
   {
-    "code": "ISO_7010_E027",
     "naam": "ISO 7010 E027",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E027.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E027.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E027.svg",
     "sha256": "176ef5b96bfe4634a678286501b505f56e1324827a885636cb19dfbe6936429b"
   },
   {
-    "code": "ISO_7010_E028",
     "naam": "ISO 7010 E028",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E028.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E028.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E028.svg",
     "sha256": "bd6647a6b69071259aeea23aa665d4c1da493ca41b5c3ed0c756e95814f28380"
   },
   {
-    "code": "ISO_7010_E029",
     "naam": "ISO 7010 E029",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E029.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E029.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E029.svg",
     "sha256": "607c8da12e889e9d6c7019d27801072e9ee382721b65788fcd2ce51812f0e221"
   },
   {
-    "code": "ISO_7010_E030",
     "naam": "ISO 7010 E030",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E030.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E030.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E030.svg",
     "sha256": "50ae257f4d57fecd1fa8527cced17b8e867eae9970fdd7acda469adf818f3d97"
   },
   {
-    "code": "ISO_7010_E031",
     "naam": "ISO 7010 E031",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E031.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E031.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E031.svg",
     "sha256": "74aea3d311508d0dfb36e0281b16f60028680f310b8eda7e4102382c22c09bc5"
   },
   {
-    "code": "ISO_7010_E032",
     "naam": "ISO 7010 E032",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E032.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E032.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E032.svg",
     "sha256": "481b33ed18c23b1f71387f5e3c91ee6ebddd94e80d5bcfe424802fd4a9a9bd13"
   },
   {
-    "code": "ISO_7010_E033",
     "naam": "ISO 7010 E033",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E033.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E033.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E033.svg",
     "sha256": "4942c4262bbda9e6bd9175c5ab24f0e258aa39b63ee3ec115348a0870bb897b0"
   },
   {
-    "code": "ISO_7010_E034",
     "naam": "ISO 7010 E034",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E034.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E034.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E034.svg",
     "sha256": "28a458345f1343de1bb3daaedeb4fea0ea887e5fe48888580753f903fc1b6ab3"
   },
   {
-    "code": "ISO_7010_E035",
     "naam": "ISO 7010 E035",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E035.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E035.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E035.svg",
     "sha256": "ccf5f761dc4df94b363f5fab0a50ffe2ebec2c4858ea80858c198aee53f0d7ea"
   },
   {
-    "code": "ISO_7010_E036",
     "naam": "ISO 7010 E036",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E036.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E036.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E036.svg",
     "sha256": "aa18fe20528430a8786009378d08a9b1d556347502bfb896057e25f9cfd1119b"
   },
   {
-    "code": "ISO_7010_E037",
     "naam": "ISO 7010 E037",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E037.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E037.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E037.svg",
     "sha256": "10d48b690bb1f8bfae0005e3c99a5a2f1f9453079ddb4f42f6b7793cc380c131"
   },
   {
-    "code": "ISO_7010_E038",
     "naam": "ISO 7010 E038",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E038.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E038.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E038.svg",
     "sha256": "1e23b8733a71bf5fec03be54521ab047558fad2a9fe25bdeb9ab15e25b4b3978"
   },
   {
-    "code": "ISO_7010_E039",
     "naam": "ISO 7010 E039",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E039.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E039.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E039.svg",
     "sha256": "89459c1050b34248dc8a55d85512223f9f53d5575a671f9c96814fc184fb1904"
   },
   {
-    "code": "ISO_7010_E040",
     "naam": "ISO 7010 E040",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E040.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E040.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E040.svg",
     "sha256": "de92693b26ac3f6c8a527d20f40f4536a49cbe4113433c7000f0b75ad7fe7bdf"
   },
   {
-    "code": "ISO_7010_E041",
     "naam": "ISO 7010 E041",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E041.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E041.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E041.svg",
     "sha256": "5a6eedabca21776b33a41467dd26d0491203ab8cb703cfb9750f8be0c5ed8c27"
   },
   {
-    "code": "ISO_7010_E042",
     "naam": "ISO 7010 E042",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E042.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E042.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E042.svg",
     "sha256": "e60afc62de88c8e11565c4fcf5eef88c8bfc87d4696596c2674ffea775c15d1c"
   },
   {
-    "code": "ISO_7010_E043",
     "naam": "ISO 7010 E043",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E043.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E043.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E043.svg",
     "sha256": "5a6809e06cf240c998e1798bba1cbceca81ff265eb540c870bdf6134d1ddea94"
   },
   {
-    "code": "ISO_7010_E044",
     "naam": "ISO 7010 E044",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E044.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E044.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E044.svg",
     "sha256": "f64fe7abcd9391f6c9cf4fe1b43ac038fbdac35b9c3a58906ad9f9f3fa63d85d"
   },
   {
-    "code": "ISO_7010_E045",
     "naam": "ISO 7010 E045",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E045.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E045.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E045.svg",
     "sha256": "89c06f3814adaec144d03e3a3cfbf7870edb6dc2c8c16fd461c92ece78e0bb62"
   },
   {
-    "code": "ISO_7010_E046",
     "naam": "ISO 7010 E046",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E046.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E046.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E046.svg",
     "sha256": "5a83fb760271693013ed8e77264dbd101c70ec52aa110a14341555446dbe7546"
   },
   {
-    "code": "ISO_7010_E047",
     "naam": "ISO 7010 E047",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E047.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E047.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E047.svg",
     "sha256": "55e80b79ec91807e3fb7b654069eeb7aa63eb58b9ddb70fd25b1418e1d738ab6"
   },
   {
-    "code": "ISO_7010_E048",
     "naam": "ISO 7010 E048",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E048.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E048.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E048.svg",
     "sha256": "b75e7e5865cfea196695255add6bd689f2cc449b78615603948afbe53d33af76"
   },
   {
-    "code": "ISO_7010_E049",
     "naam": "ISO 7010 E049",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E049.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E049.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E049.svg",
     "sha256": "22e4dffaece9b662226a0bb7d1f4e11f2adbbf161460330b7bf993f87ccc08e0"
   },
   {
-    "code": "ISO_7010_E050",
     "naam": "ISO 7010 E050",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E050.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E050.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E050.svg",
     "sha256": "f8c46a9b678af1217b0c5d25603a8dfc880190f14318832bef0a344161eb7142"
   },
   {
-    "code": "ISO_7010_E051",
     "naam": "ISO 7010 E051",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E051.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E051.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E051.svg",
     "sha256": "b8538a6a4fcba10a2e207dc12768613c6cb5dfb29780a7b3b96c69918a372f70"
   },
   {
-    "code": "ISO_7010_E052",
     "naam": "ISO 7010 E052",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E052.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E052.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E052.svg",
     "sha256": "2c5a166dbc6ca7f3edbb9083ef96647b30f704ebc4af0de0b862736d3d38c17a"
   },
   {
-    "code": "ISO_7010_E053",
     "naam": "ISO 7010 E053",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E053.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E053.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E053.svg",
     "sha256": "4f7aed956b022c1906bd368d3c48aafb4e2ee5278a5f0ca21e2ca1bf50217a56"
   },
   {
-    "code": "ISO_7010_E054",
     "naam": "ISO 7010 E054",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E054.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E054.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E054.svg",
     "sha256": "e3275f6115d7cbc4beb189a5f68f99e711d82925bffef13449cfd96eb1339b78"
   },
   {
-    "code": "ISO_7010_E055",
     "naam": "ISO 7010 E055",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E055.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E055.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E055.svg",
     "sha256": "1b7784d5385684a1fc8390f923c9baf68d308aa2c61b40c4c942584ad21765d5"
   },
   {
-    "code": "ISO_7010_E056",
     "naam": "ISO 7010 E056",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E056.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E056.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E056.svg",
     "sha256": "44a12bc0b9d10b976e094086231266057f95d3c2763e004c9f3e657b04ba3c57"
   },
   {
-    "code": "ISO_7010_E057",
     "naam": "ISO 7010 E057",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E057.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E057.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E057.svg",
     "sha256": "214e6de59f89684fccadb9ece2d97ade07ed19278580acaca8969513cd2cc2df"
   },
   {
-    "code": "ISO_7010_E058",
     "naam": "ISO 7010 E058",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E058.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E058.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E058.svg",
     "sha256": "6293d05058724e0bfd8d8436398c70f40d4ba0c34a23f38b4e3014488ae11de7"
   },
   {
-    "code": "ISO_7010_E059",
     "naam": "ISO 7010 E059",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E059.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E059.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E059.svg",
     "sha256": "422c0314f4c4e3cfe6d06330091ca64549f6aa4d8244cac3d03b1edfd675e9cf"
   },
   {
-    "code": "ISO_7010_E060",
     "naam": "ISO 7010 E060",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E060.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E060.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E060.svg",
     "sha256": "5abd834775f89ed4f11cd852d471aeb2a63df7824ac8ffd66c8cec3ae2e35fa6"
   },
   {
-    "code": "ISO_7010_E061",
     "naam": "ISO 7010 E061",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E061.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E061.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E061.svg",
     "sha256": "5f342028571abd0af607035876cf0ce34bb29046267a5f768a73e6cf1fe46772"
   },
   {
-    "code": "ISO_7010_E062",
     "naam": "ISO 7010 E062",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E062.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E062.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E062.svg",
     "sha256": "ed8d030210bac2ccbd403a2e1acd3898f6b711e5e4a0b3d031cd0db97abf56a8"
   },
   {
-    "code": "ISO_7010_E063",
     "naam": "ISO 7010 E063",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E063.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E063.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E063.svg",
     "sha256": "2f3b20f1d10c46d34b1ef49fb9efa6a088c64b107a710a9780fa5f1c17738cc1"
   },
   {
-    "code": "ISO_7010_E064",
     "naam": "ISO 7010 E064",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E064.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E064.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E064.svg",
     "sha256": "42f4b4b9f6ad06d1a6294df80ae2b594908912105182f4825401bb47b9df1a87"
   },
   {
-    "code": "ISO_7010_E065",
     "naam": "ISO 7010 E065",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E065.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E065.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E065.svg",
     "sha256": "5f14efaa589765d5c8d7ccdb605de279cb00f5a7e68b088279fac206c0415db2"
   },
   {
-    "code": "ISO_7010_E067",
     "naam": "ISO 7010 E067",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E067.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E067.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E067.svg",
     "sha256": "919f5bc50a4b1105ab542398d3367bc8cb746678fe81f1db825a33bd23f7cc32"
   },
   {
-    "code": "ISO_7010_E068",
     "naam": "ISO 7010 E068",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E068.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E068.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E068.svg",
     "sha256": "7c48a42d759179788525ee9f134eb9c5a6d5cc403141509088ba1fabdbf68aad"
   },
   {
-    "code": "ISO_7010_E069",
     "naam": "ISO 7010 E069",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E069.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E069.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E069.svg",
     "sha256": "b59c50b3772b3e67aea1dad9f4f6619be3f0d3cb282dd413d4c858a3a3472323"
   },
   {
-    "code": "ISO_7010_E070",
     "naam": "ISO 7010 E070",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E070.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E070.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E070.svg",
     "sha256": "c9c3885e8a30e1d2663b9b1408c31408e7772bd7ba0319419d645bfd5412e5fb"
   },
   {
-    "code": "ISO_7010_E072",
     "naam": "ISO 7010 E072",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E072.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E072.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E072.svg",
     "sha256": "50dc5695085e32f0f6583225364d712ee1c12e62c46a0cb27fab7d3385a68d64"
   },
   {
-    "code": "ISO_7010_E073",
     "naam": "ISO 7010 E073",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E073.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E073.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E073.svg",
     "sha256": "813d6ee8c2a89956498b9ba3aff0f75b34916c1500472c64589d3518d1b56442"
   },
   {
-    "code": "ISO_7010_E074",
     "naam": "ISO 7010 E074",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E074.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E074.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E074.svg",
     "sha256": "709de8e3ce1662ec8ac0e45ee8f0e318fd8d7911aa9aab440ffb634e69d340e8"
   },
   {
-    "code": "ISO_7010_E075",
     "naam": "ISO 7010 E075",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E075.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E075.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E075.svg",
     "sha256": "c2f2655de11fe5872643a95caf16fa420528d5f81b6e72da81911c8c27798e1d"
   },
   {
-    "code": "ISO_7010_E076",
     "naam": "ISO 7010 E076",
-    "categorie": "ISO 7010 - Reddings- en evacuatietekens (E)",
     "bestand": "ISO_7010_E076.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_E076.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_E076.svg",
     "sha256": "652d1a287521548369968407893e314ac1c1407b8b75b58139d7558dd07384de"
   },
   {
-    "code": "ISO_7010_P001",
+    "naam": "ISO 7010 F001",
+    "bestand": "ISO_7010_F001.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F001.svg",
+    "sha256": "4332bf1212c3991852a5a51248d69f74f04ed7148d780227f569312fb8a19b6a"
+  },
+  {
+    "naam": "ISO 7010 F002",
+    "bestand": "ISO_7010_F002.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F002.svg",
+    "sha256": "ea174e1b3dc4ae7f1a32233964cf29e0d1fad807a687c4152f2a2736a96bcffc"
+  },
+  {
+    "naam": "ISO 7010 F003",
+    "bestand": "ISO_7010_F003.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F003.svg",
+    "sha256": "430a69a105d0cf7a32329a9d3461297e1d512febaeeb3d6619389c10c159542e"
+  },
+  {
+    "naam": "ISO 7010 F004",
+    "bestand": "ISO_7010_F004.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F004.svg",
+    "sha256": "c25030b1116bb521ab0bfe899d99749b3f68bcdbef0bbdb65a63066aceecd12e"
+  },
+  {
+    "naam": "ISO 7010 F005",
+    "bestand": "ISO_7010_F005.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F005.svg",
+    "sha256": "fdc8b69b9b2dc69c7499f9fb17a66db9bf2eb6c34f889e39ebf6fa8f5c3e78d2"
+  },
+  {
+    "naam": "ISO 7010 F006",
+    "bestand": "ISO_7010_F006.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F006.svg",
+    "sha256": "ba5d76dcc84db8ae18966238fbbf999a12016695171dbb5e2fe761410f1d7db8"
+  },
+  {
+    "naam": "ISO 7010 F007",
+    "bestand": "ISO_7010_F007.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F007.svg",
+    "sha256": "9fe0827cba7148b2141a20667f550b23d47397463581770adb661051dd435311"
+  },
+  {
+    "naam": "ISO 7010 F008",
+    "bestand": "ISO_7010_F008.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F008.svg",
+    "sha256": "94976193f9cd4d02ec20ad00feffe580ce8355ceaf81308a53e5abcb8cb927d7"
+  },
+  {
+    "naam": "ISO 7010 F009",
+    "bestand": "ISO_7010_F009.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F009.svg",
+    "sha256": "6f11d314d16d5b96f76b95d5b812800cd227d6a9b99e08e82b1017573632722b"
+  },
+  {
+    "naam": "ISO 7010 F010",
+    "bestand": "ISO_7010_F010.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F010.svg",
+    "sha256": "2bf7c4e922a673fe167400c2216fa14b247dc4826cbf6babe22fd912ff73481e"
+  },
+  {
+    "naam": "ISO 7010 F011",
+    "bestand": "ISO_7010_F011.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F011.svg",
+    "sha256": "69d109b55e1de78905b00c2f0ceb7a33dc7480f74458f548d8bfa9de80e10fb9"
+  },
+  {
+    "naam": "ISO 7010 F012",
+    "bestand": "ISO_7010_F012.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F012.svg",
+    "sha256": "9dc2907491aa79cef719426f6c27c8cf092599e60765cc7b3dec89e686377cff"
+  },
+  {
+    "naam": "ISO 7010 F013",
+    "bestand": "ISO_7010_F013.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F013.svg",
+    "sha256": "f4625d18e091a9ef1c8163dcc2117fa1d2e5ee83d9f2bc7bab257aa2fa16a5ba"
+  },
+  {
+    "naam": "ISO 7010 F014",
+    "bestand": "ISO_7010_F014.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F014.svg",
+    "sha256": "c9e2ee9f9abb064a9f516a12132769cc26e4b835bc983c777b3e4ae95b518c90"
+  },
+  {
+    "naam": "ISO 7010 F015",
+    "bestand": "ISO_7010_F015.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F015.svg",
+    "sha256": "ae9020a55140859dd1bd17a1759a32fffbe84217294b6dcf0e472f29b6e2ae24"
+  },
+  {
+    "naam": "ISO 7010 F016",
+    "bestand": "ISO_7010_F016.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F016.svg",
+    "sha256": "e3fa3eca1a9694be36577d28275f2d72dbedb2a534990c7ea32b2f719f169332"
+  },
+  {
+    "naam": "ISO 7010 F017",
+    "bestand": "ISO_7010_F017.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F017.svg",
+    "sha256": "53d666274a81f47c1aa4af47dd19ecc848613a5e5469fe0ae54cb5eff6b68e96"
+  },
+  {
+    "naam": "ISO 7010 F018",
+    "bestand": "ISO_7010_F018.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F018.svg",
+    "sha256": "5e5c64ad8530d7436ca84a54a24a96ea00e6f19af29f2e8f5a7ea397202b8f30"
+  },
+  {
+    "naam": "ISO 7010 F019",
+    "bestand": "ISO_7010_F019.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_F019.svg",
+    "sha256": "0d2eca17bbc3f53a298ea3a0ef00487c361e5928a8552b75fc4ca5be97c9ab35"
+  },
+  {
+    "naam": "ISO 7010 M001",
+    "bestand": "ISO_7010_M001.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M001.svg",
+    "sha256": "b206adca5f5a92e6ba32aeb821c8666e1389da664a3050a029fd2c4aadfb03d9"
+  },
+  {
+    "naam": "ISO 7010 M002",
+    "bestand": "ISO_7010_M002.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M002.svg",
+    "sha256": "0767055e3c5e47733b19cc786b730610fc29c8744d58a8abc1ac48b1b92b3b7b"
+  },
+  {
+    "naam": "ISO 7010 M003",
+    "bestand": "ISO_7010_M003.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M003.svg",
+    "sha256": "aebc9feaa0f852572acb571baab5e94ae6b7ce46d079ad55aa8c270870dda874"
+  },
+  {
+    "naam": "ISO 7010 M004",
+    "bestand": "ISO_7010_M004.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M004.svg",
+    "sha256": "06e4e5a023dd6c4a82d6e89c645380e5d5c6d59c8c54049e86919404aab77108"
+  },
+  {
+    "naam": "ISO 7010 M005",
+    "bestand": "ISO_7010_M005.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M005.svg",
+    "sha256": "cb1a937d682cfdd973a173caff39806b5418085c3503b8e1849e1353df431999"
+  },
+  {
+    "naam": "ISO 7010 M006",
+    "bestand": "ISO_7010_M006.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M006.svg",
+    "sha256": "dfd08218562a2e054e61526163420ed10062bf78ac56f8dd08d725d1c8a4a323"
+  },
+  {
+    "naam": "ISO 7010 M007",
+    "bestand": "ISO_7010_M007.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M007.svg",
+    "sha256": "04e94570ac00485b103a16e2b9a77a3abfa045dfd2717ad0b706d192a8dc1e2e"
+  },
+  {
+    "naam": "ISO 7010 M008",
+    "bestand": "ISO_7010_M008.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M008.svg",
+    "sha256": "e0d1a150ba22ee9f4679a5b55e1e9fe0efc9a96f65e870efcab40b80fdcc648e"
+  },
+  {
+    "naam": "ISO 7010 M009",
+    "bestand": "ISO_7010_M009.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M009.svg",
+    "sha256": "a76302365926ee18b4b18f841944ba530034046912ddb1be5ebfa18146a6dc47"
+  },
+  {
+    "naam": "ISO 7010 M010",
+    "bestand": "ISO_7010_M010.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M010.svg",
+    "sha256": "5d22854cfd53e6988afe3bfed52ea8b3cb31cfe7c97a8eb3cf21424d2af5b6dc"
+  },
+  {
+    "naam": "ISO 7010 M011",
+    "bestand": "ISO_7010_M011.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M011.svg",
+    "sha256": "7bbbc545802af875561fa4ecff03727911e75441438686c26948363316882ad8"
+  },
+  {
+    "naam": "ISO 7010 M012",
+    "bestand": "ISO_7010_M012.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M012.svg",
+    "sha256": "c8502f889eced6ff71ec119d8269a9cf1cab7ac94f025a65b90008efac542879"
+  },
+  {
+    "naam": "ISO 7010 M013",
+    "bestand": "ISO_7010_M013.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M013.svg",
+    "sha256": "8304103ae513461608042763d390aeaf203ab3bdf37b1f00dfdf25271835fef5"
+  },
+  {
+    "naam": "ISO 7010 M014",
+    "bestand": "ISO_7010_M014.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M014.svg",
+    "sha256": "31583ac6fbc6da1e655639db771185050cdced7f7970e22be07d9c06f188f900"
+  },
+  {
+    "naam": "ISO 7010 M015",
+    "bestand": "ISO_7010_M015.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M015.svg",
+    "sha256": "62797ddf32e4dc4873d9a402eb97cd10e7937281c2c9796c06be36680a57ed44"
+  },
+  {
+    "naam": "ISO 7010 M016",
+    "bestand": "ISO_7010_M016.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M016.svg",
+    "sha256": "9788e4fb2306c2dbca5ce36d676df3160afd167f6135e946c59a64f11543a38d"
+  },
+  {
+    "naam": "ISO 7010 M017",
+    "bestand": "ISO_7010_M017.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M017.svg",
+    "sha256": "c0d64e067409a18e1e21a92f3a1c49962d952286267931bee13c2bd8ef46b49d"
+  },
+  {
+    "naam": "ISO 7010 M018",
+    "bestand": "ISO_7010_M018.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M018.svg",
+    "sha256": "8e98c070aff2927bde520ea0075525ba81234b25363121c9fa092e9d5fd24f44"
+  },
+  {
+    "naam": "ISO 7010 M019",
+    "bestand": "ISO_7010_M019.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M019.svg",
+    "sha256": "57429c5a9ab9957305dee38bdb75be0a24626dcd410882e70a364cacf8222f6a"
+  },
+  {
+    "naam": "ISO 7010 M020",
+    "bestand": "ISO_7010_M020.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M020.svg",
+    "sha256": "ed02047abb43e4142ccc8950891caeee45ae2cbe2e88bbbc53500b50bc048f70"
+  },
+  {
+    "naam": "ISO 7010 M021",
+    "bestand": "ISO_7010_M021.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M021.svg",
+    "sha256": "b125823f186ea9b30120d110aca71d3eb5a01604c249f455222f734e9a9c585b"
+  },
+  {
+    "naam": "ISO 7010 M022",
+    "bestand": "ISO_7010_M022.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M022.svg",
+    "sha256": "998bb276aa7ee251a396f7c3665ec388692e8eeacd1004be7d249edf719171d6"
+  },
+  {
+    "naam": "ISO 7010 M023",
+    "bestand": "ISO_7010_M023.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M023.svg",
+    "sha256": "34fb69ffd9d18c679d1404336b490ec71d773a80210e4022ca477fa3bc172270"
+  },
+  {
+    "naam": "ISO 7010 M024",
+    "bestand": "ISO_7010_M024.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M024.svg",
+    "sha256": "60c9e28b8112f6fe7dc33c0c5b5221bdc5d917ad3f3fb0c20e50e69abe4da98e"
+  },
+  {
+    "naam": "ISO 7010 M025",
+    "bestand": "ISO_7010_M025.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M025.svg",
+    "sha256": "63b52ee1d3fd9e01953d8f7686f53ce32cfe4f7fc2d2475406c8dc5712471699"
+  },
+  {
+    "naam": "ISO 7010 M026",
+    "bestand": "ISO_7010_M026.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M026.svg",
+    "sha256": "3dc78fef2732440264f403ffafa225b32bb9a675b41dd5f58af449245e889a1a"
+  },
+  {
+    "naam": "ISO 7010 M027",
+    "bestand": "ISO_7010_M027.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M027.svg",
+    "sha256": "6eb27e6504ab54f60c46990cbedcf875fd6ab368555caa335336272bd8ee3188"
+  },
+  {
+    "naam": "ISO 7010 M028",
+    "bestand": "ISO_7010_M028.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M028.svg",
+    "sha256": "2bd4c01dc2f00cbde10551f954b38f55b58b7ebc4414b7478fd599312681a3d5"
+  },
+  {
+    "naam": "ISO 7010 M029",
+    "bestand": "ISO_7010_M029.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M029.svg",
+    "sha256": "c1d679e4fd6adfd40bc805df756b230a8bb89b08a6519c81a1d3a9224daa5611"
+  },
+  {
+    "naam": "ISO 7010 M030",
+    "bestand": "ISO_7010_M030.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M030.svg",
+    "sha256": "bbc9d90aa70599a1400c57370e2ed45ceaca76ce6b117099b657a9494f19e715"
+  },
+  {
+    "naam": "ISO 7010 M031",
+    "bestand": "ISO_7010_M031.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M031.svg",
+    "sha256": "bd0c906c485d763e10a28c79248aeb307a952b948b0d4c01f1dd6f5673be5cf8"
+  },
+  {
+    "naam": "ISO 7010 M032",
+    "bestand": "ISO_7010_M032.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M032.svg",
+    "sha256": "ea9f0afad9de12d2300d7fa531db715aefc9638d04b8ed54a011e5d142cb3481"
+  },
+  {
+    "naam": "ISO 7010 M033",
+    "bestand": "ISO_7010_M033.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M033.svg",
+    "sha256": "099a4ceeffe0a5662f25cce7440f8105a1af1140f8e6e538e1e9ececc02b367d"
+  },
+  {
+    "naam": "ISO 7010 M034",
+    "bestand": "ISO_7010_M034.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M034.svg",
+    "sha256": "155dd76a7bdc2ddfd692ba099c97b5352ee5bba55b57127431507fd76f5c4fc2"
+  },
+  {
+    "naam": "ISO 7010 M035",
+    "bestand": "ISO_7010_M035.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M035.svg",
+    "sha256": "aa9613f328b4b04e9ad535ce2504df7dfcb6ef052d0ba033ecdb1df0dbb06d01"
+  },
+  {
+    "naam": "ISO 7010 M036",
+    "bestand": "ISO_7010_M036.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M036.svg",
+    "sha256": "18535c7471820702b6b328b2611398250fea25ad7438aafca12aa752e1ad4da2"
+  },
+  {
+    "naam": "ISO 7010 M037",
+    "bestand": "ISO_7010_M037.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M037.svg",
+    "sha256": "bda0e12fff9ce092be0d197c0819c7c8577f0e1c0e5040e26fd6b2cf45328c1e"
+  },
+  {
+    "naam": "ISO 7010 M038",
+    "bestand": "ISO_7010_M038.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M038.svg",
+    "sha256": "e6551a185788077822b0b15c920ac19dbae6167c8dbb8c2e611ed926f63b6ab6"
+  },
+  {
+    "naam": "ISO 7010 M039",
+    "bestand": "ISO_7010_M039.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M039.svg",
+    "sha256": "eb27830c8f72376bb4e740d36bc9b7cebef328f24767094af26331df94a3da13"
+  },
+  {
+    "naam": "ISO 7010 M040",
+    "bestand": "ISO_7010_M040.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M040.svg",
+    "sha256": "a4badf46acb8849c0a393b8fd627bb66f7bcf664367b90149f92012b635a72a3"
+  },
+  {
+    "naam": "ISO 7010 M041",
+    "bestand": "ISO_7010_M041.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M041.svg",
+    "sha256": "63c0f03e6a5407ce56b8238b4ece8ae3418c78a695e9bff333b148c9eefb6c0c"
+  },
+  {
+    "naam": "ISO 7010 M042",
+    "bestand": "ISO_7010_M042.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M042.svg",
+    "sha256": "039aee2cb7c3c9141ce17321c5e643531db2834a4fa97d8ca0cb4990dd69e2ec"
+  },
+  {
+    "naam": "ISO 7010 M043",
+    "bestand": "ISO_7010_M043.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M043.svg",
+    "sha256": "0ec44f6a5db80a345a0341cf981619552f354955e15e51250b06c11cbdb608e9"
+  },
+  {
+    "naam": "ISO 7010 M044",
+    "bestand": "ISO_7010_M044.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M044.svg",
+    "sha256": "e795aa8eef7a1514253fc3b2f993c7694c0b26f5b5c139cb0f7723e2cda79e7a"
+  },
+  {
+    "naam": "ISO 7010 M045",
+    "bestand": "ISO_7010_M045.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M045.svg",
+    "sha256": "0f49f8418afa67be81306a3b1621358c576462c13cd1d4868075375e9c9d63c1"
+  },
+  {
+    "naam": "ISO 7010 M046",
+    "bestand": "ISO_7010_M046.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M046.svg",
+    "sha256": "7a8ac7a6c75665c6f4350dc04ebb87b42cf2e79a10d973f0319fe20772ed4876"
+  },
+  {
+    "naam": "ISO 7010 M047",
+    "bestand": "ISO_7010_M047.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M047.svg",
+    "sha256": "4a8d5eca78346df9ef9b77ca2d0bcfab96dad7872062611e6c24c564e0ab9570"
+  },
+  {
+    "naam": "ISO 7010 M048",
+    "bestand": "ISO_7010_M048.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M048.svg",
+    "sha256": "956cc713569ce6c6a387f25b17c09aa7b3101fdb4fe00a5884b986fb6af73194"
+  },
+  {
+    "naam": "ISO 7010 M049",
+    "bestand": "ISO_7010_M049.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M049.svg",
+    "sha256": "85b5eeef7301db064b3f4dcd472068599174c7731709eec9675f3c46036837e5"
+  },
+  {
+    "naam": "ISO 7010 M050",
+    "bestand": "ISO_7010_M050.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M050.svg",
+    "sha256": "357a924ac6f20f7e52cc3eec531fa248dacb56e9e9e671abf767aa6e090bf89d"
+  },
+  {
+    "naam": "ISO 7010 M051",
+    "bestand": "ISO_7010_M051.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M051.svg",
+    "sha256": "f955d9798df60c3e43f833bf64164cb6eb4955a412a901c59de1989f26aafa33"
+  },
+  {
+    "naam": "ISO 7010 M052",
+    "bestand": "ISO_7010_M052.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M052.svg",
+    "sha256": "e14fc6a6f6b6d8b2a5f3b5e6ee976fef3a391250c59072f2a21c14916c6984a0"
+  },
+  {
+    "naam": "ISO 7010 M053",
+    "bestand": "ISO_7010_M053.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M053.svg",
+    "sha256": "61122543b8ad824aba4d1bec1b9c02ba508ad22af9ca5f1b29ddad675e3eaf92"
+  },
+  {
+    "naam": "ISO 7010 M054",
+    "bestand": "ISO_7010_M054.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M054.svg",
+    "sha256": "18ddf1b83df56cbdda81513b4efbcba54b32b6d2f0060999f56f6641d5a78118"
+  },
+  {
+    "naam": "ISO 7010 M055",
+    "bestand": "ISO_7010_M055.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M055.svg",
+    "sha256": "94404a21ee483029a197187436d08f09ca848b88ca583cb366b29269f6bb896b"
+  },
+  {
+    "naam": "ISO 7010 M056",
+    "bestand": "ISO_7010_M056.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M056.svg",
+    "sha256": "3640145a4e86cc2fa774fa6555f279542717d129d9523b4e8cd8f2e61ae8a747"
+  },
+  {
+    "naam": "ISO 7010 M057",
+    "bestand": "ISO_7010_M057.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M057.svg",
+    "sha256": "722588f05b5913437a46c15623798c39fb32f4a7dea0470d7e7070dab8e77fe9"
+  },
+  {
+    "naam": "ISO 7010 M058",
+    "bestand": "ISO_7010_M058.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M058.svg",
+    "sha256": "2a07aae9910f11edd059b2c62d6ed7920a8cf821ad03b1fc57b8d35febb561f5"
+  },
+  {
+    "naam": "ISO 7010 M059",
+    "bestand": "ISO_7010_M059.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M059.svg",
+    "sha256": "6fde4d7745b3eb1c3e01edaf000f5deba25762628672a441a7f7e02bdaa7dd92"
+  },
+  {
+    "naam": "ISO 7010 M060",
+    "bestand": "ISO_7010_M060.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M060.svg",
+    "sha256": "b512b3513b8f488a55235878d4ae8e4ca45538f2a88b2046d950ae8931da539c"
+  },
+  {
+    "naam": "ISO 7010 M061",
+    "bestand": "ISO_7010_M061.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M061.svg",
+    "sha256": "695c12eb9e5ebb4d325f0d45f7a4475af98143af7f38ca2fe48f735183b30b76"
+  },
+  {
+    "naam": "ISO 7010 M062",
+    "bestand": "ISO_7010_M062.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M062.svg",
+    "sha256": "a03e4c620284bc1dd4d4bef875108ea06a4fcce965a42f2167a5bb4e7bb4504e"
+  },
+  {
+    "naam": "ISO 7010 M068",
+    "bestand": "ISO_7010_M068.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M068.svg",
+    "sha256": "ef00737e2c7a593814d410ced7a813f143e5ff04be47f1b8457152f1c7227bd2"
+  },
+  {
+    "naam": "ISO 7010 M069",
+    "bestand": "ISO_7010_M069.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M069.svg",
+    "sha256": "b61eb6766c84229ffb61a9593dfdc22b42f61bdc7529a235217c54f7d0a5e1a5"
+  },
+  {
+    "naam": "ISO 7010 M070",
+    "bestand": "ISO_7010_M070.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M070.svg",
+    "sha256": "2b0473a0987b29813723ada2c189fbab9ecedce4690ac7b82389c2af468b8d96"
+  },
+  {
+    "naam": "ISO 7010 M071",
+    "bestand": "ISO_7010_M071.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M071.svg",
+    "sha256": "c6e24d5fc2bf00d75de18d8b31a4223302791a06ecea710f44d4cfa4cb446f34"
+  },
+  {
+    "naam": "ISO 7010 M072",
+    "bestand": "ISO_7010_M072.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_M072.svg",
+    "sha256": "02ca7df0c1a12f3cb1497ed03af9c91a258ce4f580a1f25c88990b7f22e91af7"
+  },
+  {
     "naam": "ISO 7010 P001",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P001.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P001.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P001.svg",
     "sha256": "c6371a09a987db64bfce7154990adb356b1545d079c8cce718e538eac58007f3"
   },
   {
-    "code": "ISO_7010_P002",
     "naam": "ISO 7010 P002",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P002.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P002.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P002.svg",
     "sha256": "e934673e8088791f93b2d51836908345be29a739b79bd022d9a519d173701f75"
   },
   {
-    "code": "ISO_7010_P003",
     "naam": "ISO 7010 P003",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P003.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P003.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P003.svg",
     "sha256": "f05de41b0d06063eaa63cbf76f4980f76f6509a120a193a06227986c9d16116e"
   },
   {
-    "code": "ISO_7010_P004",
     "naam": "ISO 7010 P004",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P004.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P004.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P004.svg",
     "sha256": "1acb798c51908e87b43fda7a8dc1e7d52af44b2600e721db55f34634d2a2441c"
   },
   {
-    "code": "ISO_7010_P005",
     "naam": "ISO 7010 P005",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P005.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P005.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P005.svg",
     "sha256": "eeb00e80f7575d3c7422d7ebbd04ced7809dd6433108ae98db43b9882f7b000a"
   },
   {
-    "code": "ISO_7010_P006",
     "naam": "ISO 7010 P006",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P006.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P006.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P006.svg",
     "sha256": "d0e3de146cccae801c9c4c78b65909a4a4966b92b93a3a676c817507908727d7"
   },
   {
-    "code": "ISO_7010_P007",
     "naam": "ISO 7010 P007",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P007.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P007.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P007.svg",
     "sha256": "19d4f9233e2d8eaec34f5a33987d71fc9bbcc280ed8adde8c411b40fbf0ebb03"
   },
   {
-    "code": "ISO_7010_P008",
     "naam": "ISO 7010 P008",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P008.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P008.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P008.svg",
     "sha256": "11a2784a2b2f00c4b34c1b5de3f1fad45a1057fec381760396f1de357a6443c5"
   },
   {
-    "code": "ISO_7010_P009",
     "naam": "ISO 7010 P009",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P009.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P009.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P009.svg",
     "sha256": "d3521c7f74eaf2b493a257e7dc2b6d2deec56bf47649a32e0a1701b3e23344de"
   },
   {
-    "code": "ISO_7010_P010",
     "naam": "ISO 7010 P010",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P010.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P010.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P010.svg",
     "sha256": "7344821134e68ca4943f02453b14d573333dd30122fe5671fc73666a83ca0eab"
   },
   {
-    "code": "ISO_7010_P011",
     "naam": "ISO 7010 P011",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P011.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P011.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P011.svg",
     "sha256": "94ded00521aca3591d23941f4e7d38b7254177dff6fce4b6a15b0a74a2c3a2f4"
   },
   {
-    "code": "ISO_7010_P012",
     "naam": "ISO 7010 P012",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P012.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P012.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P012.svg",
     "sha256": "540f074fb9319c16028b32d92bb766542f38b2fe2826dd9b50b66108e39ea4e8"
   },
   {
-    "code": "ISO_7010_P013",
     "naam": "ISO 7010 P013",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P013.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P013.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P013.svg",
     "sha256": "5a4fcb56723c8f20351ca79bcca43b53d8d49ef6bd0264d2cc65a4dba9995693"
   },
   {
-    "code": "ISO_7010_P014",
     "naam": "ISO 7010 P014",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P014.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P014.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P014.svg",
     "sha256": "7757108f8325f94309e4b303e82bebf1e33a47a087327a09df51f057f73ee75a"
   },
   {
-    "code": "ISO_7010_P015",
     "naam": "ISO 7010 P015",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P015.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P015.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P015.svg",
     "sha256": "33d112fb1f738b556c927c0538c274ced076c9ec7757e9221f65b90c2cbfdc56"
   },
   {
-    "code": "ISO_7010_P016",
     "naam": "ISO 7010 P016",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P016.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P016.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P016.svg",
     "sha256": "d82ba6ad24dee29e161e3b65ec6148e05cf88b8b6986a16628895281d75a4665"
   },
   {
-    "code": "ISO_7010_P017",
     "naam": "ISO 7010 P017",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P017.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P017.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P017.svg",
     "sha256": "2022f41ac5e62be232f63d8fe7409d9e07aa9513df29475771424733568e9d02"
   },
   {
-    "code": "ISO_7010_P018",
     "naam": "ISO 7010 P018",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P018.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P018.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P018.svg",
     "sha256": "bb73e5abe5fda672cedaf2ea82e4db6344ba14a80b27547ab8edb76392c89687"
   },
   {
-    "code": "ISO_7010_P019",
     "naam": "ISO 7010 P019",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P019.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P019.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P019.svg",
     "sha256": "6f299558497e0c2c2c4919885cb3394f3ccbb82fddbe615951bcf6ca68d4f753"
   },
   {
-    "code": "ISO_7010_P020",
     "naam": "ISO 7010 P020",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P020.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P020.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P020.svg",
     "sha256": "f400cf5886d08fb532262b9399d3ecfddec3f1f070b4459e86e044c5f6f4bd7a"
   },
   {
-    "code": "ISO_7010_P021",
     "naam": "ISO 7010 P021",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P021.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P021.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P021.svg",
     "sha256": "4a5ab56878952c2a8d366992c29f673025fa8d58a92f101f768ace78e38b7eed"
   },
   {
-    "code": "ISO_7010_P022",
     "naam": "ISO 7010 P022",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P022.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P022.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P022.svg",
     "sha256": "b52c221d22d75d27eed30a7559d01bb3b5a7c2995ce70f91e43f273e0fd14517"
   },
   {
-    "code": "ISO_7010_P023",
     "naam": "ISO 7010 P023",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P023.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P023.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P023.svg",
     "sha256": "6f41fd1035374f0f699e7df372ef228c30e851feea9ac0ef3fef18292b221c06"
   },
   {
-    "code": "ISO_7010_P024",
     "naam": "ISO 7010 P024",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P024.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P024.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P024.svg",
     "sha256": "390cd43bd9014bfcbfa0af70814986d033b0fb17bbac9738bbb85f89f4cf24fd"
   },
   {
-    "code": "ISO_7010_P025",
     "naam": "ISO 7010 P025",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P025.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P025.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P025.svg",
     "sha256": "aeae330d233d32f3152f1cfeea31a1d4b524825574b0e6084f01db71a1bacaa6"
   },
   {
-    "code": "ISO_7010_P026",
     "naam": "ISO 7010 P026",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P026.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P026.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P026.svg",
     "sha256": "ad1d9970ed6674400f45ba1d3bc94b97b22e21440bf427a530c6c12aede266b7"
   },
   {
-    "code": "ISO_7010_P027",
     "naam": "ISO 7010 P027",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P027.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P027.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P027.svg",
     "sha256": "3225e5f9aafcd36be3069514c2187559d52742fd1354ec9b59e5c8d143d34c86"
   },
   {
-    "code": "ISO_7010_P028",
     "naam": "ISO 7010 P028",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P028.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P028.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P028.svg",
     "sha256": "b2894e10630d65f3ba526205f1995487a9dcb5bc284a531e1c583c8f6f20ad62"
   },
   {
-    "code": "ISO_7010_P029",
     "naam": "ISO 7010 P029",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P029.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P029.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P029.svg",
     "sha256": "e455667f80648ca3acf1f0842b60dd1ab0a35a0a9243e38dd06a0ee3af35533a"
   },
   {
-    "code": "ISO_7010_P030",
     "naam": "ISO 7010 P030",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P030.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P030.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P030.svg",
     "sha256": "6f7101e4fc1721d7b50453fa24f64c6015f91df39fed92238e38d1d2b72c964e"
   },
   {
-    "code": "ISO_7010_P031",
     "naam": "ISO 7010 P031",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P031.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P031.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P031.svg",
     "sha256": "c229772e6947108a819487e202514534997234cf48c39ea8adcd0de291468d9a"
   },
   {
-    "code": "ISO_7010_P032",
     "naam": "ISO 7010 P032",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P032.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P032.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P032.svg",
     "sha256": "9c0fb20825d75bfb225a963866e5506e6c0e0bee41e1fb4e6dd4a6244ce3fe6f"
   },
   {
-    "code": "ISO_7010_P033",
     "naam": "ISO 7010 P033",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P033.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P033.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P033.svg",
     "sha256": "3c89204f43ed119f72505f53de0034506bd428b63ec2f34c841c09a3b03b8473"
   },
   {
-    "code": "ISO_7010_P034",
     "naam": "ISO 7010 P034",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P034.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P034.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P034.svg",
     "sha256": "39b1935c793afe1d8e17301df1ceac49bc0f3d9c079241e56d8c1bf92a8401d3"
   },
   {
-    "code": "ISO_7010_P035",
     "naam": "ISO 7010 P035",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P035.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P035.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P035.svg",
     "sha256": "08a31416752b4d251e86e2b13a5968e5590c82225c92ec1a7a7a69e6e3c9d5b4"
   },
   {
-    "code": "ISO_7010_P036",
     "naam": "ISO 7010 P036",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P036.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P036.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P036.svg",
     "sha256": "69f391c44ecda8cf4eadf4393d7119d7e87677857f7093a2fe2ebbdea592fb96"
   },
   {
-    "code": "ISO_7010_P037",
     "naam": "ISO 7010 P037",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P037.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P037.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P037.svg",
     "sha256": "fc810800b6ab26edc0a0edb85046bf965ffac3ff583c189d9d356afc588ef43c"
   },
   {
-    "code": "ISO_7010_P038",
     "naam": "ISO 7010 P038",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P038.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P038.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P038.svg",
     "sha256": "392a0faa0b490367dc636af39ad20fd62f376cd7c092fac5685ca5f2132eaf9b"
   },
   {
-    "code": "ISO_7010_P039",
     "naam": "ISO 7010 P039",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P039.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P039.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P039.svg",
     "sha256": "b9c9cfbdd44feebd6074292fa9f30dd3b4f8c6de33e7074d7f1a92f45bba60a3"
   },
   {
-    "code": "ISO_7010_P040",
     "naam": "ISO 7010 P040",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P040.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P040.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P040.svg",
     "sha256": "da20fe7d4710fea29aa34292243543cd85ece34edddb56c251f2bcd6a836b407"
   },
   {
-    "code": "ISO_7010_P041",
     "naam": "ISO 7010 P041",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P041.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P041.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P041.svg",
     "sha256": "80cfae53b6bc3bba387960228b7c470a77d9a788ddea05e68476f914d8eba033"
   },
   {
-    "code": "ISO_7010_P042",
     "naam": "ISO 7010 P042",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P042.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P042.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P042.svg",
     "sha256": "4da512aa79ba9bba2077e86f8b1abaa5cdad3796452d72a810a9e34b31b351b2"
   },
   {
-    "code": "ISO_7010_P043",
     "naam": "ISO 7010 P043",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P043.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P043.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P043.svg",
     "sha256": "e39887ad4c02ce0f6c4e29f1191592a09f1a8f539c7935860ddebca63da60024"
   },
   {
-    "code": "ISO_7010_P044",
     "naam": "ISO 7010 P044",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P044.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P044.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P044.svg",
     "sha256": "3990af5ba0428dc8cf5a9610b44f46f8fbf4a9c46ef7aa6a364e6dfa5901baa3"
   },
   {
-    "code": "ISO_7010_P045",
     "naam": "ISO 7010 P045",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P045.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P045.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P045.svg",
     "sha256": "e788b9724cb1e6f5a8f883d9790a226d9f7d386d8df364ae46e4acc4c8542a1d"
   },
   {
-    "code": "ISO_7010_P046",
     "naam": "ISO 7010 P046",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P046.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P046.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P046.svg",
     "sha256": "02e5e398d1ea5149ee32e236254ee6ffcb93470ab7fe4f08a6d72c42e67eee40"
   },
   {
-    "code": "ISO_7010_P047",
     "naam": "ISO 7010 P047",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P047.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P047.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P047.svg",
     "sha256": "4e19dd918b705e9617545b50efa6b95c0879b1f6c1a696b0512407970f3eeabf"
   },
   {
-    "code": "ISO_7010_P048",
     "naam": "ISO 7010 P048",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P048.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P048.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P048.svg",
     "sha256": "3f9dffa3a6d798d054ddfc5a7ab880fa97ad11b2d8e2c0a8a21b6b03416239de"
   },
   {
-    "code": "ISO_7010_P049",
     "naam": "ISO 7010 P049",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P049.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P049.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P049.svg",
     "sha256": "cc298b12e2c2265f107a2171375e44016cc2d125e92d23a3015dac796300d9a4"
   },
   {
-    "code": "ISO_7010_P050",
     "naam": "ISO 7010 P050",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P050.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P050.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P050.svg",
     "sha256": "5f57adfbe0494ebaacb82e699fc4973912440747eca95d7d64a0da4f9a9899a3"
   },
   {
-    "code": "ISO_7010_P051",
     "naam": "ISO 7010 P051",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P051.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P051.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P051.svg",
     "sha256": "549218a5ede0892381f73c66a694a5024b13ec013544141e70185bf60818a4ad"
   },
   {
-    "code": "ISO_7010_P052",
     "naam": "ISO 7010 P052",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P052.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P052.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P052.svg",
     "sha256": "592bd5d9900ba248cfd7f2a11caf879dba01029e3bcb1ffb70b10caf8b49665c"
   },
   {
-    "code": "ISO_7010_P053",
     "naam": "ISO 7010 P053",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P053.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P053.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P053.svg",
     "sha256": "bd3796b3f29ea3a37bcf2e9d0f60028309d4406f8443e1d8c99134442cfa929c"
   },
   {
-    "code": "ISO_7010_P054",
     "naam": "ISO 7010 P054",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P054.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P054.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P054.svg",
     "sha256": "88b842c37029506bedefd09e21215e3ff59d92325c7d547a6f62fd4c96c846df"
   },
   {
-    "code": "ISO_7010_P055",
     "naam": "ISO 7010 P055",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P055.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P055.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P055.svg",
     "sha256": "7576f71f2725ab11ebc9b8abe39a278b6b801200a7c946db2e73e279ec9fd473"
   },
   {
-    "code": "ISO_7010_P056",
     "naam": "ISO 7010 P056",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P056.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P056.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P056.svg",
     "sha256": "1ee0d5f23de537a783a0755e14e29d7668ff2b1050719fa5f3630a2d0e836467"
   },
   {
-    "code": "ISO_7010_P057",
     "naam": "ISO 7010 P057",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P057.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P057.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P057.svg",
     "sha256": "8868f6085ed3c984e56ed82a1c21f6946e1139012d9691e6f3a955d5e19aa18e"
   },
   {
-    "code": "ISO_7010_P058",
     "naam": "ISO 7010 P058",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P058.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P058.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P058.svg",
     "sha256": "3d3134e0dfdaceb770aa3d9678ea5134134753fc8cd433a188a3226f47c4723c"
   },
   {
-    "code": "ISO_7010_P059",
     "naam": "ISO 7010 P059",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P059.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P059.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P059.svg",
     "sha256": "6c25bac3272fe248f632f86674ac7aa36bca21bbabdd1f7efa88e68c3d8d08ba"
   },
   {
-    "code": "ISO_7010_P060",
     "naam": "ISO 7010 P060",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P060.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P060.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P060.svg",
     "sha256": "4aaf122fadf42aa93f0c43b1139029b98a5adb67b70f9cc51010c6e759da84d1"
   },
   {
-    "code": "ISO_7010_P061",
     "naam": "ISO 7010 P061",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P061.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P061.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P061.svg",
     "sha256": "1e5281c1d01126624d04e8516c37f7501cee36c499a43bbd0fc332623d414d21"
   },
   {
-    "code": "ISO_7010_P062",
     "naam": "ISO 7010 P062",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P062.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P062.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P062.svg",
     "sha256": "b53e4d1108c0de7a7f8007e3923637838055dff0c6835d6ce4821643452ab639"
   },
   {
-    "code": "ISO_7010_P063",
     "naam": "ISO 7010 P063",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P063.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P063.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P063.svg",
     "sha256": "e75b057def4b526bd2f4ff786a0f4abe627417ec0f96428b5506ff14edef31a5"
   },
   {
-    "code": "ISO_7010_P064",
     "naam": "ISO 7010 P064",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P064.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P064.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P064.svg",
     "sha256": "d2432827004618f9767e6d767fa50b94ad4f85695423b6d1b95fcca8de68d2da"
   },
   {
-    "code": "ISO_7010_P065",
     "naam": "ISO 7010 P065",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P065.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P065.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P065.svg",
     "sha256": "497e421627b837b2535ffa813dcfb7a8d2fcf5f7c9ba5d33570587d0c6e5922e"
   },
   {
-    "code": "ISO_7010_P066",
     "naam": "ISO 7010 P066",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P066.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P066.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P066.svg",
     "sha256": "bbc6b935aa8a2087aa264cdac63d8af224aa9536ee5f665a719de40d4a9bff06"
   },
   {
-    "code": "ISO_7010_P067",
     "naam": "ISO 7010 P067",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P067.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P067.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P067.svg",
     "sha256": "0442056d832cc27a2f2e6b56e3d2d441fc84d93325a4bad34a31215447b5a7bd"
   },
   {
-    "code": "ISO_7010_P068",
     "naam": "ISO 7010 P068",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P068.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P068.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P068.svg",
     "sha256": "5c223e04afa774c728e263e4d14b16e7fbfa0b19a2caeee2ba2ffa387195c68c"
   },
   {
-    "code": "ISO_7010_P069",
     "naam": "ISO 7010 P069",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P069.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P069.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P069.svg",
     "sha256": "01862875f826ea7c3a04de07e1e0fd4326346fc813fd7438dfb62ad2ca4ce27c"
   },
   {
-    "code": "ISO_7010_P070",
     "naam": "ISO 7010 P070",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P070.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P070.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P070.svg",
     "sha256": "0d622dd05713eceee84d6d628426315eb9cd01959942f9dc3fd2698a6645da05"
   },
   {
-    "code": "ISO_7010_P071",
     "naam": "ISO 7010 P071",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P071.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P071.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P071.svg",
     "sha256": "11f5d6e64ce0194bad8ea9da6e67eb1b51b39735ca8afc84f2e2669fc3d3fdca"
   },
   {
-    "code": "ISO_7010_P072",
     "naam": "ISO 7010 P072",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P072.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P072.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P072.svg",
     "sha256": "160ce63664221af0ea0127eed1355e2841ff0376ecd2252d79c8af70af0aa00b"
   },
   {
-    "code": "ISO_7010_P073",
     "naam": "ISO 7010 P073",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P073.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P073.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P073.svg",
     "sha256": "53a7a5ff599850df39e36e79651708d947b071a1799cebf777a420200d9c92db"
   },
   {
-    "code": "ISO_7010_P074",
     "naam": "ISO 7010 P074",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P074.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P074.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P074.svg",
     "sha256": "5f71d2407699fe63a601bcc2e485fc912fe881cefc7b0f16040df0bb0a73c403"
   },
   {
-    "code": "ISO_7010_P075",
     "naam": "ISO 7010 P075",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P075.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P075.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P075.svg",
     "sha256": "b7d169a4776faea0795925fa2599344098964379e881b3069cdfc54bef136daa"
   },
   {
-    "code": "ISO_7010_P080",
     "naam": "ISO 7010 P080",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P080.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P080.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P080.svg",
     "sha256": "36de32805cbbb5321a3d73827065061754768c0482734ccf6076e2fd7e3babb7"
   },
   {
-    "code": "ISO_7010_P081",
     "naam": "ISO 7010 P081",
-    "categorie": "ISO 7010 - Verbodstekens (P)",
     "bestand": "ISO_7010_P081.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_P081.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_P081.svg",
     "sha256": "c2e320dfe2d8b8effa1d06f5eea29bd74abfca41c576ea485aa81ce93a04547f"
   },
   {
-    "code": "ISO_7010_W001",
     "naam": "ISO 7010 W001",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W001.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W001.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W001.svg",
     "sha256": "e0422e803c2b5f8aba5b680278ef514efd6e356d73c745dcc20fc9ab8e8a6fd1"
   },
   {
-    "code": "ISO_7010_W002",
     "naam": "ISO 7010 W002",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W002.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W002.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W002.svg",
     "sha256": "c63c94bfc59fb427ef2e110d056bfb6a47743eeeaef5079f31c98dcb206e163f"
   },
   {
-    "code": "ISO_7010_W003",
     "naam": "ISO 7010 W003",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W003.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W003.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W003.svg",
     "sha256": "8d73041843d260217994e7adbddaa24c3ea0271a936cbe235304667999a7ef73"
   },
   {
-    "code": "ISO_7010_W004",
     "naam": "ISO 7010 W004",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W004.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W004.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W004.svg",
     "sha256": "0ca999c9b96c186434d258044b58a412aa2e0486ac62b9325ddef77fdba8d71b"
   },
   {
-    "code": "ISO_7010_W005",
     "naam": "ISO 7010 W005",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W005.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W005.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W005.svg",
     "sha256": "e7d28654258c011d506dacf44c453cc6ead626c5b2fae8c0c3c916bb78fe0d2e"
   },
   {
-    "code": "ISO_7010_W006",
     "naam": "ISO 7010 W006",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W006.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W006.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W006.svg",
     "sha256": "c964226f6d0e6453b5f7202336a914097e2b37461105fc42e839842473cafc3e"
   },
   {
-    "code": "ISO_7010_W007",
     "naam": "ISO 7010 W007",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W007.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W007.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W007.svg",
     "sha256": "8b8f69e0007aab957f5e75e320b4b44da9a60b4968bff6e48345f9d0293ad273"
   },
   {
-    "code": "ISO_7010_W008",
     "naam": "ISO 7010 W008",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W008.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W008.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W008.svg",
     "sha256": "5d7b2e468a67c010dd32f95f6c25c9a948188c5ffcdfeebe3b39312cc4cafeaf"
   },
   {
-    "code": "ISO_7010_W009",
     "naam": "ISO 7010 W009",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W009.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W009.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W009.svg",
     "sha256": "b35f1b674db608967e08d22092124a7664e84c546f307f2e5ebd68214285ea66"
   },
   {
-    "code": "ISO_7010_W010",
     "naam": "ISO 7010 W010",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W010.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W010.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W010.svg",
     "sha256": "8d3fa12a1395d55f8ba77082820aed08092a9a82373d86278c08cc76c679669c"
   },
   {
-    "code": "ISO_7010_W011",
     "naam": "ISO 7010 W011",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W011.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W011.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W011.svg",
     "sha256": "ae70a980b2862f91b80408fcd48343b4c427b5039f26e934899c65b62df86067"
   },
   {
-    "code": "ISO_7010_W012",
     "naam": "ISO 7010 W012",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W012.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W012.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W012.svg",
     "sha256": "105ede2fa7d6fe70ccff708a0c26eb9b098bee442316fbdf885c20378337a18f"
   },
   {
-    "code": "ISO_7010_W013",
     "naam": "ISO 7010 W013",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W013.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W013.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W013.svg",
     "sha256": "69dbc15f2f7db1b54461fc031951c55e2a9ead08d51f4339839c0de17a0a7f5a"
   },
   {
-    "code": "ISO_7010_W014",
     "naam": "ISO 7010 W014",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W014.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W014.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W014.svg",
     "sha256": "903157c47cfbb9b5cd48ff30b9bd89d5fc132aee3faabe5c914ed7a7d92dbe92"
   },
   {
-    "code": "ISO_7010_W015",
     "naam": "ISO 7010 W015",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W015.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W015.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W015.svg",
     "sha256": "1738f10d69ed2be6d56baed0d86c17dc5220c27675d09fe44831a48a7fe90997"
   },
   {
-    "code": "ISO_7010_W016",
     "naam": "ISO 7010 W016",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W016.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W016.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W016.svg",
     "sha256": "4a882da20851565a6b405996b934971daf9d3120c6e47b293aa944468f098e16"
   },
   {
-    "code": "ISO_7010_W017",
     "naam": "ISO 7010 W017",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W017.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W017.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W017.svg",
     "sha256": "a771ce317b64ec4c535f360963d1f4b261103720e149874277c73c43e043f28e"
   },
   {
-    "code": "ISO_7010_W018",
     "naam": "ISO 7010 W018",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W018.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W018.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W018.svg",
     "sha256": "6be017a88605758ef86091a2e661c691fbb14469a2efd93588b6d7c4c22b55a3"
   },
   {
-    "code": "ISO_7010_W019",
     "naam": "ISO 7010 W019",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W019.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W019.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W019.svg",
     "sha256": "1daef6d995c59e06baf9f0aef548bedc39f99e628fb521be58bbf7b67ef70ab3"
   },
   {
-    "code": "ISO_7010_W020",
     "naam": "ISO 7010 W020",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W020.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W020.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W020.svg",
     "sha256": "d71ccd1d6669881807c0fc734c909fdc1bf5f3e72a4212801c551828586087f9"
   },
   {
-    "code": "ISO_7010_W021",
     "naam": "ISO 7010 W021",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W021.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W021.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W021.svg",
     "sha256": "1db080475f7172f710426eacb6b172cc16e3d4c38260318dcb591cc46590f59f"
   },
   {
-    "code": "ISO_7010_W022",
     "naam": "ISO 7010 W022",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W022.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W022.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W022.svg",
     "sha256": "9342744dfd22de710f414e759b530df95ffd945ab57b2122df8a2a080eb0d849"
   },
   {
-    "code": "ISO_7010_W023",
     "naam": "ISO 7010 W023",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W023.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W023.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W023.svg",
     "sha256": "1f45a81d918ff853eb9aa41411bec15f969187abc91ba758d2ddc41eb2f8210b"
   },
   {
-    "code": "ISO_7010_W024",
     "naam": "ISO 7010 W024",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W024.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W024.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W024.svg",
     "sha256": "49d2c4b96fad2056f3a3524affe1946ba2cbd5f687ae562f00774eb36e6295fc"
   },
   {
-    "code": "ISO_7010_W025",
     "naam": "ISO 7010 W025",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W025.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W025.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W025.svg",
     "sha256": "84d168f68c3c0ae8a6353182021c51e3ba88d875b426412730f85bb9b132a0a6"
   },
   {
-    "code": "ISO_7010_W026",
     "naam": "ISO 7010 W026",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W026.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W026.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W026.svg",
     "sha256": "2ae91216d2bd2a568d36c691b4a320199ebeab2f26ab3bf2e18dc3502878123f"
   },
   {
-    "code": "ISO_7010_W027",
     "naam": "ISO 7010 W027",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W027.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W027.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W027.svg",
     "sha256": "e0034b73cf192854e9b913c9988a4393b9145edf94a9e9ca4e0c0a11a8fbb393"
   },
   {
-    "code": "ISO_7010_W028",
     "naam": "ISO 7010 W028",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W028.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W028.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W028.svg",
     "sha256": "be135de621e808c491e59b06ee519d759cb4b25410b3ccf10943304c0240ada4"
   },
   {
-    "code": "ISO_7010_W029",
     "naam": "ISO 7010 W029",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W029.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W029.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W029.svg",
     "sha256": "0ae1f69fa6e5d86b5803793f3f4467c2878827cced7943d7eef433cf1aa1ab6a"
   },
   {
-    "code": "ISO_7010_W030",
     "naam": "ISO 7010 W030",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W030.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W030.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W030.svg",
     "sha256": "c77771f621a292b8fd4139f32367e94548773a5962c3d6fdff76e8d462437fef"
   },
   {
-    "code": "ISO_7010_W031",
     "naam": "ISO 7010 W031",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W031.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W031.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W031.svg",
     "sha256": "6533fc34194aa2e89594cf4f7447e3bd2e7ab893b0c4f1ca43afe204d7301b08"
   },
   {
-    "code": "ISO_7010_W032",
     "naam": "ISO 7010 W032",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W032.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W032.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W032.svg",
     "sha256": "3323c704aeae959c53f2f87bbd43d7bd40171d23cf86a3f9806834e9d46cdd39"
   },
   {
-    "code": "ISO_7010_W033",
     "naam": "ISO 7010 W033",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W033.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W033.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W033.svg",
     "sha256": "1786936390930073ecab07aeff836677f5f5a1718cd989ced5d7a6fdda8c58ea"
   },
   {
-    "code": "ISO_7010_W034",
     "naam": "ISO 7010 W034",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W034.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W034.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W034.svg",
     "sha256": "acfc9e49422ab3854706924c661ac61991100187767596b1562ce598d8d46ca9"
   },
   {
-    "code": "ISO_7010_W035",
     "naam": "ISO 7010 W035",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W035.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W035.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W035.svg",
     "sha256": "043a624aaebabba6e8b8ef94982e2e9b94b8789cca0514b805c41817bde36f7d"
   },
   {
-    "code": "ISO_7010_W036",
     "naam": "ISO 7010 W036",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W036.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W036.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W036.svg",
     "sha256": "a53687f0a510e06ffef4b27ee41b069b7ef0b712b33a7f7c82655763e78d7a1b"
   },
   {
-    "code": "ISO_7010_W037",
     "naam": "ISO 7010 W037",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W037.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W037.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W037.svg",
     "sha256": "b97db7a9fef31db2bd836fe7d010042da44d8693574692fcba7c4ea10c47592f"
   },
   {
-    "code": "ISO_7010_W038",
     "naam": "ISO 7010 W038",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W038.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W038.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W038.svg",
     "sha256": "0042042a5566fcf19059feb84c1effe766c2a5617499098140f601a62d7bae0a"
   },
   {
-    "code": "ISO_7010_W039",
     "naam": "ISO 7010 W039",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W039.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W039.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W039.svg",
     "sha256": "c33ad5eae79ee5d52918115d322d3cf52ada2aeccc509211f74b9848816b24da"
   },
   {
-    "code": "ISO_7010_W040",
     "naam": "ISO 7010 W040",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W040.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W040.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W040.svg",
     "sha256": "a698e0c178b33c375607839c334f0f443dd4158bdbdf572df71c24614a845226"
   },
   {
-    "code": "ISO_7010_W041",
     "naam": "ISO 7010 W041",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W041.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W041.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W041.svg",
     "sha256": "9647090f5499eaec54870ecfe63e4db2fbe74eeb771d956fd8fa823c69590ee9"
   },
   {
-    "code": "ISO_7010_W042",
     "naam": "ISO 7010 W042",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W042.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W042.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W042.svg",
     "sha256": "e6b8ad934a317a11ceb970fa1d690c4d11768793c5ca5bc77ef3e2f67afdd7ab"
   },
   {
-    "code": "ISO_7010_W043",
     "naam": "ISO 7010 W043",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W043.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W043.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W043.svg",
     "sha256": "5c7bffc93e6b582b66f5d206ad1b689acdfee614acc96218ba95f817e03a4351"
   },
   {
-    "code": "ISO_7010_W044",
     "naam": "ISO 7010 W044",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W044.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W044.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W044.svg",
     "sha256": "4241fa70379c392e233b2078b7677132998bc76dc55d637cd199f813637c461a"
   },
   {
-    "code": "ISO_7010_W045",
     "naam": "ISO 7010 W045",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W045.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W045.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W045.svg",
     "sha256": "f2dece102f512d69f9afaa99ba6c4c2f7c68a2c43d6a2f739d73bca76094b9ab"
   },
   {
-    "code": "ISO_7010_W046",
     "naam": "ISO 7010 W046",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W046.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W046.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W046.svg",
     "sha256": "37457bd57abf3cdf28db42abc1ab254e5c8fd0d552ba2f20ab560a355dfcddcf"
   },
   {
-    "code": "ISO_7010_W047",
     "naam": "ISO 7010 W047",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W047.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W047.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W047.svg",
     "sha256": "269b46bed8e058b29932f4a534c76b6d132375509e76d135f0239ff699a4ac1e"
   },
   {
-    "code": "ISO_7010_W048",
     "naam": "ISO 7010 W048",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W048.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W048.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W048.svg",
     "sha256": "02f66a9a95a28e586196dcaeda8cddfa67b91421f49d79b218ea818b325b9f01"
   },
   {
-    "code": "ISO_7010_W049",
     "naam": "ISO 7010 W049",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W049.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W049.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W049.svg",
     "sha256": "b5c18c6e3758720f73a3ea23b8fef3c68e0a8e5cc09d08dad8f4372c7754766d"
   },
   {
-    "code": "ISO_7010_W050",
     "naam": "ISO 7010 W050",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W050.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W050.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W050.svg",
     "sha256": "74eed0b6ee1dcec829193b0c2c2abd7b92bce5138861e51c3d72d55239faac7f"
   },
   {
-    "code": "ISO_7010_W051",
     "naam": "ISO 7010 W051",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W051.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W051.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W051.svg",
     "sha256": "e80d0da6c1df8538b5813fc4198a924acc00bda75f603201901a746c5ff3bb51"
   },
   {
-    "code": "ISO_7010_W052",
     "naam": "ISO 7010 W052",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W052.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W052.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W052.svg",
     "sha256": "21fecca27c9e17453d0aa988da1425d496f789761e427993d647d5eefa33b56d"
   },
   {
-    "code": "ISO_7010_W053",
     "naam": "ISO 7010 W053",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W053.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W053.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W053.svg",
     "sha256": "8a8150db53ea19c92a5b9bc08604301bcd288e53ef00b2ae24be8808925ba88b"
   },
   {
-    "code": "ISO_7010_W054",
     "naam": "ISO 7010 W054",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W054.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W054.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W054.svg",
     "sha256": "d1a1cf7cb63d275431da48c2d81099de98e1e7081f0c59885f3b33cae896c5b8"
   },
   {
-    "code": "ISO_7010_W055",
     "naam": "ISO 7010 W055",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W055.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W055.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W055.svg",
     "sha256": "2e419460af51b528387d2f8cf4cc647afb0dd5d8dcefa88a3d47226a7100895f"
   },
   {
-    "code": "ISO_7010_W056",
     "naam": "ISO 7010 W056",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W056.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W056.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W056.svg",
     "sha256": "f225cb73e16431d3ede63240d3a1c1571b093a5a4a55b67d9c1c81c9ab0f0e62"
   },
   {
-    "code": "ISO_7010_W057",
     "naam": "ISO 7010 W057",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W057.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W057.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W057.svg",
     "sha256": "4d930f00cdaea1cb1e1cec13b847b79268a18d63577cccd1a5a6fd6b52f9f282"
   },
   {
-    "code": "ISO_7010_W058",
     "naam": "ISO 7010 W058",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W058.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W058.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W058.svg",
     "sha256": "483970f55e59f8080a72af10336345a15ef79c8bd8cfde7498ceec7b86df2aea"
   },
   {
-    "code": "ISO_7010_W059",
     "naam": "ISO 7010 W059",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W059.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W059.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W059.svg",
     "sha256": "639610588aace89c02bf5d29f5dd36cd278da7b67e3d25e6516082100bccea1b"
   },
   {
-    "code": "ISO_7010_W060",
     "naam": "ISO 7010 W060",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W060.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W060.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W060.svg",
     "sha256": "58bf5f95adca41e016d2747eb98e3340fced81091501c0595afc9e4f66d0375c"
   },
   {
-    "code": "ISO_7010_W061",
     "naam": "ISO 7010 W061",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W061.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W061.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W061.svg",
     "sha256": "72ec8d791a5039a8e962acfbfe709985f6907da9461343788d632551066e84be"
   },
   {
-    "code": "ISO_7010_W062",
     "naam": "ISO 7010 W062",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W062.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W062.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W062.svg",
     "sha256": "3b16b3d695c91a3afcd6a53576cc618c92c7e447429cc15d17aa8dee33d3eea5"
   },
   {
-    "code": "ISO_7010_W063",
     "naam": "ISO 7010 W063",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W063.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W063.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W063.svg",
     "sha256": "7387c4d174dd8c7ed638360b7d24b9bfce3d72108ec6be7755632f504b9dfd08"
   },
   {
-    "code": "ISO_7010_W064",
     "naam": "ISO 7010 W064",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W064.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W064.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W064.svg",
     "sha256": "1d610dd51103ceee4d0a2ef9c86ee3ae56a7655d5c10dbb978bad6e2442d4fc2"
   },
   {
-    "code": "ISO_7010_W065",
     "naam": "ISO 7010 W065",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W065.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W065.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W065.svg",
     "sha256": "89d9cdf9043ab3828abcfd1b3a833f79323980c52cd6de1261497c370ff44e51"
   },
   {
-    "code": "ISO_7010_W066",
     "naam": "ISO 7010 W066",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W066.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W066.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W066.svg",
     "sha256": "0c0c4ab5dc7a50996c56206d63b1c677a9c951882802b09eb34da51a1510d696"
   },
   {
-    "code": "ISO_7010_W067",
     "naam": "ISO 7010 W067",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W067.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W067.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W067.svg",
     "sha256": "274bed4fd2ad23fd193c907050af26e52a751aff97b5547f8daf3b7768be0353"
   },
   {
-    "code": "ISO_7010_W068",
     "naam": "ISO 7010 W068",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W068.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W068.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W068.svg",
     "sha256": "3ab391b4069332f49ae6e0aef69c59307aacd26ee3d319f675bbafae83df6bd0"
   },
   {
-    "code": "ISO_7010_W069",
     "naam": "ISO 7010 W069",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W069.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W069.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W069.svg",
     "sha256": "dcf19c9f5a3058633aa0bbc2223d3a07892b778518d079828ec02097eddcccb2"
   },
   {
-    "code": "ISO_7010_W070",
     "naam": "ISO 7010 W070",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W070.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W070.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W070.svg",
     "sha256": "fda86a3d187e5d0b8d8e64350bdf7eb771c62fc8ab88f7011771d8c6123b1189"
   },
   {
-    "code": "ISO_7010_W071",
     "naam": "ISO 7010 W071",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W071.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W071.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W071.svg",
     "sha256": "57c2881d7735ff416c8e5b6d36b799bda5fd47ed2e9a2efd08dc54fb2cdc35d8"
   },
   {
-    "code": "ISO_7010_W072",
     "naam": "ISO 7010 W072",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W072.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W072.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W072.svg",
     "sha256": "117dccc65c0340527f9e4bf70fa86bc3e28bbeb631b7cb12a91a4379d177f32b"
   },
   {
-    "code": "ISO_7010_W073",
     "naam": "ISO 7010 W073",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W073.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W073.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W073.svg",
     "sha256": "6d12802478547258b83a96f03ac45f37e668ffa8836ffe6bfe435f2d9a6a193b"
   },
   {
-    "code": "ISO_7010_W074",
     "naam": "ISO 7010 W074",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W074.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W074.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W074.svg",
     "sha256": "442ea48235f110ce131d1d19247883f039f93c6016eca6bd25867fbe182e900d"
   },
   {
-    "code": "ISO_7010_W075",
     "naam": "ISO 7010 W075",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W075.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W075.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W075.svg",
     "sha256": "d31cfcf44c99f3d7b5c569bc40a1f93088c073fe3674a226f6379796a9bde39b"
   },
   {
-    "code": "ISO_7010_W076",
     "naam": "ISO 7010 W076",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W076.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W076.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W076.svg",
     "sha256": "1d4b9a1859a1c3c95265f13bd61ed09af60ee9e9391a1a8060e5f144418faebc"
   },
   {
-    "code": "ISO_7010_W077",
     "naam": "ISO 7010 W077",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W077.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W077.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W077.svg",
     "sha256": "8f859936fdf18af300720fc99e02f15fb276da5becc52a32ca240de37da96c10"
   },
   {
-    "code": "ISO_7010_W078",
     "naam": "ISO 7010 W078",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W078.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W078.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W078.svg",
     "sha256": "4c1022a40c99a40d8d99a2eeb83efa0e27615d53240e889a2501b29782428a7c"
   },
   {
-    "code": "ISO_7010_W079",
     "naam": "ISO 7010 W079",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W079.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W079.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W079.svg",
     "sha256": "fb1f882fb7876a3b9a916910e5c2e3183af53777a982dc0349db2dd170306e7f"
   },
   {
-    "code": "ISO_7010_W080",
     "naam": "ISO 7010 W080",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W080.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W080.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W080.svg",
     "sha256": "b93038d63803a6c0516d28420c639cbc912a61ba3a641ea130f8a485409895c9"
   },
   {
-    "code": "ISO_7010_W087",
     "naam": "ISO 7010 W087",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W087.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W087.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W087.svg",
     "sha256": "beecd0ae92a5ca82b98ffd7a9640d9a551fa78a1a2b14a0523de680ed3880d86"
   },
   {
-    "code": "ISO_7010_W088",
     "naam": "ISO 7010 W088",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W088.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W088.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W088.svg",
     "sha256": "50215f47360a9dfe025b9ecca730f9b59cfec2e724d489708a1496075d16c7a9"
   },
   {
-    "code": "ISO_7010_W089",
     "naam": "ISO 7010 W089",
-    "categorie": "ISO 7010 - Waarschuwingstekens (W)",
     "bestand": "ISO_7010_W089.svg",
-    "bron_url": "https://safetyforms.nl/pictograms/ISO_7010_W089.svg",
+    "bron": "https://safetyforms.nl/pictograms/ISO_7010_W089.svg",
     "sha256": "250474c4476f18af3fad7623e3d271ea14c390ccdb053bf281c4b7b0e2de3c39"
   }
 ]
